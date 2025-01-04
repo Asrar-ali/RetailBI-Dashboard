@@ -1,0 +1,1001 @@
+id,ship_mode,segment,country,city,state,postal_code,region,category,sub_category,sales,quantity,discount,profit,profit_margin_percentage,discount_impact_category,total_sales_city
+1,"Second Class",Consumer,"United States",Henderson,Kentucky,42420,South,Furniture,Bookcases,261.96,2,0.00,41.91,16.00,"No Discount",17549.07
+2,"Second Class",Consumer,"United States",Henderson,Kentucky,42420,South,Furniture,Chairs,731.94,3,0.00,219.58,30.00,"No Discount",17549.07
+3,"Second Class",Corporate,"United States","Los Angeles",California,90036,West,"Office Supplies",Labels,14.62,2,0.00,6.87,46.99,"No Discount",175851.33
+4,"Standard Class",Consumer,"United States","Fort Lauderdale",Florida,33311,South,Furniture,Tables,957.58,5,0.45,-383.03,-40.00,"Negative Impact",4929.52
+5,"Standard Class",Consumer,"United States","Fort Lauderdale",Florida,33311,South,"Office Supplies",Storage,22.37,2,0.20,2.52,11.27,"Positive Impact",4929.52
+6,"Standard Class",Consumer,"United States","Los Angeles",California,90032,West,Furniture,Furnishings,48.86,7,0.00,14.17,29.00,"No Discount",175851.33
+7,"Standard Class",Consumer,"United States","Los Angeles",California,90032,West,"Office Supplies",Art,7.28,4,0.00,1.97,27.06,"No Discount",175851.33
+8,"Standard Class",Consumer,"United States","Los Angeles",California,90032,West,Technology,Phones,907.15,6,0.20,90.72,10.00,"Positive Impact",175851.33
+9,"Standard Class",Consumer,"United States","Los Angeles",California,90032,West,"Office Supplies",Binders,18.50,3,0.20,5.78,31.24,"Positive Impact",175851.33
+10,"Standard Class",Consumer,"United States","Los Angeles",California,90032,West,"Office Supplies",Appliances,114.90,5,0.00,34.47,30.00,"No Discount",175851.33
+11,"Standard Class",Consumer,"United States","Los Angeles",California,90032,West,Furniture,Tables,1706.18,9,0.20,85.31,5.00,"Positive Impact",175851.33
+12,"Standard Class",Consumer,"United States","Los Angeles",California,90032,West,Technology,Phones,911.42,4,0.20,68.36,7.50,"Positive Impact",175851.33
+13,"Standard Class",Consumer,"United States",Concord,"North Carolina",28027,South,"Office Supplies",Paper,15.55,3,0.20,5.44,34.98,"Positive Impact",10542.40
+14,"Standard Class",Consumer,"United States",Seattle,Washington,98103,West,"Office Supplies",Binders,407.98,3,0.20,132.59,32.50,"Positive Impact",119540.74
+15,"Standard Class","Home Office","United States","Fort Worth",Texas,76106,Central,"Office Supplies",Appliances,68.81,5,0.80,-123.86,-180.00,"Negative Impact",6602.69
+16,"Standard Class","Home Office","United States","Fort Worth",Texas,76106,Central,"Office Supplies",Binders,2.54,3,0.80,-3.82,-150.39,"Negative Impact",6602.69
+17,"Standard Class",Consumer,"United States",Madison,Wisconsin,53711,Central,"Office Supplies",Storage,665.88,6,0.00,13.32,2.00,"No Discount",5346.79
+18,"Second Class",Consumer,"United States","West Jordan",Utah,84084,West,"Office Supplies",Storage,55.50,2,0.00,9.99,18.00,"No Discount",311.85
+19,"Second Class",Consumer,"United States","San Francisco",California,94109,West,"Office Supplies",Art,8.56,2,0.00,2.48,28.97,"No Discount",112669.09
+20,"Second Class",Consumer,"United States","San Francisco",California,94109,West,Technology,Phones,213.48,3,0.20,16.01,7.50,"Positive Impact",112669.09
+21,"Second Class",Consumer,"United States","San Francisco",California,94109,West,"Office Supplies",Binders,22.72,4,0.20,7.38,32.48,"Positive Impact",112669.09
+22,"Standard Class",Corporate,"United States",Fremont,Nebraska,68025,Central,"Office Supplies",Art,19.46,7,0.00,5.06,26.00,"No Discount",1119.01
+23,"Standard Class",Corporate,"United States",Fremont,Nebraska,68025,Central,"Office Supplies",Appliances,60.34,7,0.00,15.69,26.00,"No Discount",1119.01
+24,"Second Class",Consumer,"United States",Philadelphia,Pennsylvania,19140,East,Furniture,Chairs,71.37,2,0.30,-1.02,-1.43,"Negative Impact",109077.09
+25,"Standard Class",Consumer,"United States",Orem,Utah,84057,West,Furniture,Tables,1044.63,3,0.00,240.26,23.00,"No Discount",2994.09
+26,"Second Class",Consumer,"United States","Los Angeles",California,90049,West,"Office Supplies",Binders,11.65,2,0.20,4.22,36.22,"Positive Impact",175851.33
+27,"Second Class",Consumer,"United States","Los Angeles",California,90049,West,Technology,Accessories,90.57,3,0.00,11.77,13.00,"No Discount",175851.33
+28,"Standard Class",Consumer,"United States",Philadelphia,Pennsylvania,19140,East,Furniture,Bookcases,3083.43,7,0.50,-1665.05,-54.00,"Negative Impact",109077.09
+29,"Standard Class",Consumer,"United States",Philadelphia,Pennsylvania,19140,East,"Office Supplies",Binders,9.62,2,0.70,-7.05,-73.28,"Negative Impact",109077.09
+30,"Standard Class",Consumer,"United States",Philadelphia,Pennsylvania,19140,East,Furniture,Furnishings,124.20,3,0.20,15.53,12.50,"Positive Impact",109077.09
+31,"Standard Class",Consumer,"United States",Philadelphia,Pennsylvania,19140,East,"Office Supplies",Envelopes,3.26,2,0.20,1.10,33.74,"Positive Impact",109077.09
+32,"Standard Class",Consumer,"United States",Philadelphia,Pennsylvania,19140,East,"Office Supplies",Art,86.30,6,0.20,9.71,11.25,"Positive Impact",109077.09
+33,"Standard Class",Consumer,"United States",Philadelphia,Pennsylvania,19140,East,"Office Supplies",Binders,6.86,6,0.70,-5.72,-83.38,"Negative Impact",109077.09
+34,"Standard Class",Consumer,"United States",Philadelphia,Pennsylvania,19140,East,"Office Supplies",Art,15.76,2,0.20,3.55,22.53,"Positive Impact",109077.09
+35,"Second Class","Home Office","United States",Houston,Texas,77095,Central,"Office Supplies",Paper,29.47,3,0.20,9.95,33.76,"Positive Impact",64504.71
+36,"First Class",Corporate,"United States",Richardson,Texas,75080,Central,Technology,Phones,1097.54,7,0.20,123.47,11.25,"Positive Impact",1288.46
+37,"First Class",Corporate,"United States",Richardson,Texas,75080,Central,Furniture,Furnishings,190.92,5,0.60,-147.96,-77.50,"Negative Impact",1288.46
+38,"Standard Class","Home Office","United States",Houston,Texas,77041,Central,"Office Supplies",Envelopes,113.33,9,0.20,35.42,31.25,"Positive Impact",64504.71
+39,"Standard Class","Home Office","United States",Houston,Texas,77041,Central,Furniture,Bookcases,532.40,3,0.32,-46.98,-8.82,"Negative Impact",64504.71
+40,"Standard Class","Home Office","United States",Houston,Texas,77041,Central,Furniture,Chairs,212.06,3,0.30,-15.15,-7.14,"Negative Impact",64504.71
+41,"Standard Class","Home Office","United States",Houston,Texas,77041,Central,Technology,Phones,371.17,4,0.20,41.76,11.25,"Positive Impact",64504.71
+42,"Standard Class",Corporate,"United States",Naperville,Illinois,60540,Central,Technology,Phones,147.17,4,0.20,16.56,11.25,"Positive Impact",1288.31
+43,"Standard Class",Corporate,"United States","Los Angeles",California,90049,West,"Office Supplies",Storage,77.88,2,0.00,3.89,4.99,"No Discount",175851.33
+44,"Standard Class",Corporate,"United States",Melbourne,Florida,32935,South,"Office Supplies",Storage,95.62,2,0.20,9.56,10.00,"Positive Impact",95.62
+45,"First Class",Corporate,"United States",Eagan,Minnesota,55122,Central,Technology,Accessories,45.98,2,0.00,19.77,43.00,"No Discount",214.28
+46,"First Class",Corporate,"United States",Eagan,Minnesota,55122,Central,"Office Supplies",Binders,17.46,2,0.00,8.21,47.02,"No Discount",214.28
+47,"Second Class",Consumer,"United States",Westland,Michigan,48185,Central,"Office Supplies",Storage,211.96,4,0.00,8.48,4.00,"No Discount",2057.98
+48,"Standard Class",Consumer,"United States",Dover,Delaware,19901,East,Technology,Accessories,45.00,3,0.00,4.95,11.00,"No Discount",4878.07
+49,"Standard Class",Consumer,"United States",Dover,Delaware,19901,East,Technology,Phones,21.80,2,0.00,6.10,27.98,"No Discount",4878.07
+50,"Standard Class",Consumer,"United States","New Albany",Indiana,47150,Central,"Office Supplies",Binders,38.22,6,0.00,17.96,46.99,"No Discount",209.55
+51,"Standard Class",Consumer,"United States","New Albany",Indiana,47150,Central,"Office Supplies",Labels,75.18,6,0.00,35.33,46.99,"No Discount",209.55
+52,"Standard Class",Consumer,"United States","New Albany",Indiana,47150,Central,Furniture,Furnishings,6.16,2,0.00,2.96,48.05,"No Discount",209.55
+53,"Standard Class",Consumer,"United States","New Albany",Indiana,47150,Central,Furniture,Chairs,89.99,1,0.00,17.10,19.00,"No Discount",209.55
+54,"Standard Class",Corporate,"United States","New York City","New York",10024,East,"Office Supplies",Fasteners,15.26,7,0.00,6.26,41.02,"No Discount",256368.12
+55,"Standard Class",Corporate,"United States","New York City","New York",10024,East,Technology,Phones,1029.95,5,0.00,298.69,29.00,"No Discount",256368.12
+56,"First Class",Consumer,"United States",Troy,"New York",12180,East,"Office Supplies",Storage,208.56,6,0.00,52.14,25.00,"No Discount",4507.07
+57,"First Class",Consumer,"United States",Troy,"New York",12180,East,"Office Supplies",Paper,32.40,5,0.00,15.55,47.99,"No Discount",4507.07
+58,"First Class",Consumer,"United States",Troy,"New York",12180,East,Furniture,Chairs,319.41,5,0.10,7.10,2.22,"Positive Impact",4507.07
+59,"First Class",Consumer,"United States",Troy,"New York",12180,East,"Office Supplies",Paper,14.56,2,0.00,6.99,48.01,"No Discount",4507.07
+60,"First Class",Consumer,"United States",Troy,"New York",12180,East,Technology,Accessories,30.00,2,0.00,3.30,11.00,"No Discount",4507.07
+61,"First Class",Consumer,"United States",Troy,"New York",12180,East,"Office Supplies",Binders,48.48,4,0.20,16.36,33.75,"Positive Impact",4507.07
+62,"First Class",Consumer,"United States",Troy,"New York",12180,East,"Office Supplies",Art,1.68,1,0.00,0.84,50.00,"No Discount",4507.07
+63,"Standard Class",Consumer,"United States","Los Angeles",California,90004,West,Technology,Accessories,13.98,2,0.00,6.15,43.99,"No Discount",175851.33
+64,"Standard Class",Consumer,"United States","Los Angeles",California,90004,West,"Office Supplies",Binders,25.82,6,0.20,9.36,36.25,"Positive Impact",175851.33
+65,"Standard Class",Consumer,"United States","Los Angeles",California,90004,West,"Office Supplies",Paper,146.73,3,0.00,68.96,47.00,"No Discount",175851.33
+66,"Standard Class",Consumer,"United States","Los Angeles",California,90004,West,Furniture,Furnishings,79.76,4,0.00,22.33,28.00,"No Discount",175851.33
+67,"Standard Class","Home Office","United States",Chicago,Illinois,60610,Central,Furniture,Chairs,213.12,5,0.30,-15.22,-7.14,"Negative Impact",48539.59
+68,"Standard Class",Corporate,"United States",Gilbert,Arizona,85234,West,"Office Supplies",Art,1113.02,8,0.20,111.30,10.00,"Positive Impact",4172.38
+69,"Standard Class",Corporate,"United States",Gilbert,Arizona,85234,West,Technology,Phones,167.97,4,0.20,62.99,37.50,"Positive Impact",4172.38
+70,"First Class",Consumer,"United States",Springfield,Virginia,22153,South,"Office Supplies",Paper,75.88,2,0.00,35.66,47.00,"No Discount",43054.35
+71,"Standard Class",Consumer,"United States","New York City","New York",10009,East,"Office Supplies",Binders,4.62,1,0.20,1.73,37.45,"Positive Impact",256368.12
+72,"Second Class",Consumer,"United States",Jackson,Michigan,49201,Central,"Office Supplies",Paper,19.05,3,0.00,8.76,45.98,"No Discount",24963.85
+73,"Standard Class",Consumer,"United States",Memphis,Tennessee,38109,South,Furniture,Chairs,831.94,8,0.20,-114.39,-13.75,"Negative Impact",5942.32
+74,"Standard Class",Consumer,"United States",Memphis,Tennessee,38109,South,Furniture,Furnishings,97.04,2,0.20,1.21,1.25,"Positive Impact",5942.32
+75,"Standard Class",Consumer,"United States",Memphis,Tennessee,38109,South,"Office Supplies",Storage,72.78,1,0.20,-18.20,-25.01,"Negative Impact",5942.32
+76,"First Class",Corporate,"United States",Houston,Texas,77041,Central,"Office Supplies",Binders,1.25,3,0.80,-1.93,-154.40,"Negative Impact",64504.71
+77,"First Class",Corporate,"United States",Houston,Texas,77041,Central,Furniture,Furnishings,9.71,3,0.60,-5.82,-59.94,"Negative Impact",64504.71
+78,"First Class",Corporate,"United States",Houston,Texas,77041,Central,"Office Supplies",Storage,27.24,3,0.20,2.72,9.99,"Positive Impact",64504.71
+79,"Second Class",Consumer,"United States",Houston,Texas,77070,Central,Furniture,Furnishings,19.30,5,0.60,-14.48,-75.03,"Negative Impact",64504.71
+80,"First Class",Corporate,"United States",Decatur,Alabama,35601,South,"Office Supplies",Appliances,208.16,1,0.00,56.20,27.00,"No Discount",6544.30
+81,"First Class",Corporate,"United States",Decatur,Alabama,35601,South,"Office Supplies",Binders,16.74,3,0.00,8.04,48.03,"No Discount",6544.30
+82,"Standard Class",Consumer,"United States","San Francisco",California,94122,West,"Office Supplies",Art,14.90,5,0.00,4.17,27.99,"No Discount",112669.09
+83,"Standard Class",Consumer,"United States","San Francisco",California,94122,West,"Office Supplies",Storage,21.39,1,0.00,6.20,28.99,"No Discount",112669.09
+84,"Standard Class",Corporate,"United States",Durham,"North Carolina",27707,South,"Office Supplies",Envelopes,200.98,7,0.20,62.81,31.25,"Positive Impact",879.95
+85,"First Class","Home Office","United States",Chicago,Illinois,60623,Central,"Office Supplies",Storage,230.38,3,0.20,-48.95,-21.25,"Negative Impact",48539.59
+86,"Second Class",Consumer,"United States",Columbia,"South Carolina",29203,South,Furniture,Chairs,301.96,2,0.00,33.22,11.00,"No Discount",25283.34
+87,"Standard Class",Consumer,"United States",Rochester,Minnesota,55901,Central,Technology,Accessories,19.99,1,0.00,6.80,34.02,"No Discount",7974.53
+88,"Standard Class",Consumer,"United States",Rochester,Minnesota,55901,Central,"Office Supplies",Labels,6.16,2,0.00,2.96,48.05,"No Discount",7974.53
+89,"Second Class","Home Office","United States",Houston,Texas,77095,Central,"Office Supplies",Storage,158.37,7,0.20,13.86,8.75,"Positive Impact",64504.71
+90,"Standard Class",Corporate,"United States","Los Angeles",California,90036,West,"Office Supplies",Art,20.10,3,0.00,6.63,32.99,"No Discount",175851.33
+91,"Standard Class",Corporate,"United States","Los Angeles",California,90036,West,Technology,Phones,73.58,2,0.20,8.28,11.25,"Positive Impact",175851.33
+92,"Standard Class",Corporate,"United States","Los Angeles",California,90036,West,"Office Supplies",Paper,6.48,1,0.00,3.11,47.99,"No Discount",175851.33
+93,"Second Class",Consumer,"United States",Minneapolis,Minnesota,55407,Central,"Office Supplies",Paper,12.96,2,0.00,6.22,47.99,"No Discount",16870.54
+94,"Second Class",Consumer,"United States",Minneapolis,Minnesota,55407,Central,Furniture,Furnishings,53.34,3,0.00,16.54,31.01,"No Discount",16870.54
+95,"Second Class",Consumer,"United States",Minneapolis,Minnesota,55407,Central,"Office Supplies",Binders,32.96,2,0.00,16.15,49.00,"No Discount",16870.54
+96,"Standard Class","Home Office","United States",Portland,Oregon,97206,West,"Office Supplies",Binders,5.68,1,0.70,-3.79,-66.73,"Negative Impact",4051.86
+97,"Second Class","Home Office","United States","New York City","New York",10009,East,Furniture,Furnishings,96.53,7,0.00,40.54,42.00,"No Discount",256368.12
+98,"First Class",Consumer,"United States","San Francisco",California,94122,West,"Office Supplies",Binders,51.31,3,0.20,17.96,35.00,"Positive Impact",112669.09
+99,"Standard Class",Corporate,"United States","Saint Paul",Minnesota,55106,Central,"Office Supplies",Appliances,77.88,6,0.00,22.59,29.01,"No Discount",192.83
+100,"Standard Class","Home Office","United States",Chicago,Illinois,60610,Central,"Office Supplies",Paper,64.62,7,0.20,22.62,35.00,"Positive Impact",48539.59
+101,"Standard Class","Home Office","United States",Chicago,Illinois,60610,Central,Technology,Accessories,95.98,3,0.20,-10.80,-11.25,"Negative Impact",48539.59
+102,"Standard Class","Home Office","United States",Chicago,Illinois,60610,Central,"Office Supplies",Binders,1.79,3,0.80,-3.04,-169.83,"Negative Impact",48539.59
+103,"Second Class",Consumer,"United States",Rochester,Minnesota,55901,Central,"Office Supplies",Paper,23.92,4,0.00,11.72,49.00,"No Discount",7974.53
+104,"Standard Class",Consumer,"United States",Aurora,Colorado,80013,West,Technology,Accessories,238.90,6,0.20,-26.88,-11.25,"Negative Impact",11656.47
+105,"Standard Class",Consumer,"United States",Aurora,Colorado,80013,West,Furniture,Furnishings,102.36,3,0.20,-3.84,-3.75,"Negative Impact",11656.47
+106,"Standard Class",Consumer,"United States",Aurora,Colorado,80013,West,"Office Supplies",Binders,36.88,3,0.70,-25.82,-70.01,"Negative Impact",11656.47
+107,"Standard Class",Consumer,"United States",Charlotte,"North Carolina",28205,South,Technology,Accessories,74.11,8,0.20,17.60,23.75,"Positive Impact",13693.33
+108,"Standard Class",Consumer,"United States",Charlotte,"North Carolina",28205,South,Technology,Phones,27.99,1,0.20,2.10,7.50,"Positive Impact",13693.33
+109,"Standard Class",Consumer,"United States",Charlotte,"North Carolina",28205,South,"Office Supplies",Art,3.30,1,0.20,1.07,32.42,"Positive Impact",13693.33
+110,"Standard Class","Home Office","United States","Orland Park",Illinois,60462,Central,Technology,Accessories,339.96,5,0.20,67.99,20.00,"Positive Impact",339.96
+111,"Standard Class",Corporate,"United States","New York City","New York",10035,East,Furniture,Furnishings,41.96,2,0.00,10.91,26.00,"No Discount",256368.12
+112,"Standard Class",Consumer,"United States",Urbandale,Iowa,50322,Central,"Office Supplies",Art,75.96,2,0.00,22.79,30.00,"No Discount",149.12
+113,"Standard Class",Consumer,"United States",Urbandale,Iowa,50322,Central,"Office Supplies",Binders,27.24,6,0.00,13.35,49.01,"No Discount",149.12
+114,"Second Class",Consumer,"United States",Columbus,Ohio,43229,East,"Office Supplies",Fasteners,40.10,14,0.20,14.53,36.23,"Positive Impact",38706.23
+115,"Second Class",Consumer,"United States",Columbus,Ohio,43229,East,"Office Supplies",Envelopes,4.72,2,0.20,1.65,34.96,"Positive Impact",38706.23
+116,"Second Class",Consumer,"United States",Columbus,Ohio,43229,East,"Office Supplies",Paper,23.98,3,0.20,7.49,31.23,"Positive Impact",38706.23
+117,"Second Class",Consumer,"United States",Columbus,Ohio,43229,East,"Office Supplies",Envelopes,130.46,6,0.20,44.03,33.75,"Positive Impact",38706.23
+118,"Standard Class",Consumer,"United States",Seattle,Washington,98103,West,Furniture,Tables,787.53,3,0.00,165.38,21.00,"No Discount",119540.74
+119,"Standard Class",Corporate,"United States",Bristol,Tennessee,37620,South,"Office Supplies",Binders,157.79,1,0.70,-115.72,-73.34,"Negative Impact",1251.18
+120,"First Class",Consumer,"United States",Wilmington,Delaware,19805,East,Furniture,Furnishings,47.04,3,0.00,18.35,39.01,"No Discount",7297.07
+121,"First Class",Consumer,"United States",Wilmington,Delaware,19805,East,"Office Supplies",Binders,30.84,4,0.00,13.88,45.01,"No Discount",7297.07
+122,"First Class",Consumer,"United States",Wilmington,Delaware,19805,East,"Office Supplies",Storage,226.56,6,0.00,63.44,28.00,"No Discount",7297.07
+123,"First Class",Consumer,"United States",Wilmington,Delaware,19805,East,"Office Supplies",Envelopes,115.02,9,0.00,51.76,45.00,"No Discount",7297.07
+124,"First Class",Consumer,"United States",Wilmington,Delaware,19805,East,Technology,Phones,68.04,7,0.00,19.73,29.00,"No Discount",7297.07
+125,"Second Class","Home Office","United States",Houston,Texas,77041,Central,Furniture,Chairs,600.56,3,0.30,-8.58,-1.43,"Negative Impact",64504.71
+126,"Standard Class",Consumer,"United States",Bloomington,Illinois,61701,Central,Furniture,Tables,617.70,6,0.50,-407.68,-66.00,"Negative Impact",1567.75
+127,"Standard Class",Consumer,"United States",Phoenix,Arizona,85023,West,"Office Supplies",Binders,2.39,2,0.70,-1.83,-76.57,"Negative Impact",11000.27
+128,"Standard Class",Consumer,"United States",Phoenix,Arizona,85023,West,"Office Supplies",Storage,243.99,7,0.20,30.50,12.50,"Positive Impact",11000.27
+129,"Second Class","Home Office","United States","Los Angeles",California,90004,West,Furniture,Chairs,81.42,2,0.20,-9.16,-11.25,"Negative Impact",175851.33
+130,"Second Class","Home Office","United States","Los Angeles",California,90004,West,Furniture,Furnishings,238.56,3,0.00,26.24,11.00,"No Discount",175851.33
+131,"First Class",Corporate,"United States",Columbus,Ohio,43229,East,Technology,Phones,59.97,5,0.40,-11.99,-19.99,"Negative Impact",38706.23
+132,"First Class",Corporate,"United States",Columbus,Ohio,43229,East,"Office Supplies",Paper,78.30,2,0.20,29.36,37.50,"Positive Impact",38706.23
+133,"First Class",Corporate,"United States",Columbus,Ohio,43229,East,"Office Supplies",Fasteners,21.46,9,0.20,6.97,32.48,"Positive Impact",38706.23
+134,"Standard Class",Consumer,"United States",Roseville,California,95661,West,"Office Supplies",Paper,20.04,3,0.00,9.62,48.00,"No Discount",3588.63
+135,"Standard Class",Consumer,"United States",Roseville,California,95661,West,"Office Supplies",Paper,35.44,1,0.00,16.66,47.01,"No Discount",3588.63
+136,"Standard Class",Consumer,"United States",Roseville,California,95661,West,"Office Supplies",Art,11.52,4,0.00,3.46,30.03,"No Discount",3588.63
+137,"Standard Class",Consumer,"United States",Roseville,California,95661,West,"Office Supplies",Fasteners,4.02,2,0.00,1.97,49.00,"No Discount",3588.63
+138,"Standard Class",Consumer,"United States",Roseville,California,95661,West,"Office Supplies",Binders,76.18,3,0.20,26.66,35.00,"Positive Impact",3588.63
+139,"Standard Class",Consumer,"United States",Roseville,California,95661,West,"Office Supplies",Supplies,65.88,6,0.00,18.45,28.01,"No Discount",3588.63
+140,"Standard Class",Consumer,"United States",Roseville,California,95661,West,Furniture,Furnishings,43.12,14,0.00,20.70,48.01,"No Discount",3588.63
+141,"Second Class",Corporate,"United States",Philadelphia,Pennsylvania,19140,East,Furniture,Furnishings,82.80,2,0.20,10.35,12.50,"Positive Impact",109077.09
+142,"Standard Class",Corporate,"United States","San Francisco",California,94122,West,"Office Supplies",Art,8.82,3,0.00,2.38,26.98,"No Discount",112669.09
+143,"Standard Class",Corporate,"United States","San Francisco",California,94122,West,"Office Supplies",Envelopes,10.86,3,0.00,5.10,46.96,"No Discount",112669.09
+144,"Standard Class",Corporate,"United States","San Francisco",California,94122,West,"Office Supplies",Paper,143.70,3,0.00,68.98,48.00,"No Discount",112669.09
+145,"Standard Class",Consumer,"United States",Independence,Missouri,64055,Central,"Office Supplies",Appliances,839.43,3,0.00,218.25,26.00,"No Discount",2417.37
+146,"Standard Class",Consumer,"United States",Pasadena,California,91104,West,"Office Supplies",Storage,671.93,7,0.00,20.16,3.00,"No Discount",6590.16
+147,"Standard Class","Home Office","United States",Newark,Ohio,43055,East,Furniture,Furnishings,93.89,4,0.20,12.91,13.75,"Positive Impact",28576.15
+148,"Standard Class",Corporate,"United States",Franklin,Wisconsin,53132,Central,Technology,Phones,384.45,11,0.00,103.80,27.00,"No Discount",11257.03
+149,"Standard Class",Corporate,"United States",Franklin,Wisconsin,53132,Central,Technology,Phones,149.97,3,0.00,6.00,4.00,"No Discount",11257.03
+150,"Standard Class",Corporate,"United States",Franklin,Wisconsin,53132,Central,Furniture,Chairs,1951.84,8,0.00,585.55,30.00,"No Discount",11257.03
+151,"Standard Class",Corporate,"United States",Franklin,Wisconsin,53132,Central,"Office Supplies",Binders,171.55,5,0.00,80.63,47.00,"No Discount",11257.03
+152,"First Class","Home Office","United States",Scottsdale,Arizona,85254,West,"Office Supplies",Appliances,157.92,5,0.20,17.77,11.25,"Positive Impact",1466.30
+153,"First Class","Home Office","United States",Scottsdale,Arizona,85254,West,Technology,Phones,203.18,2,0.20,15.24,7.50,"Positive Impact",1466.30
+154,"First Class",Corporate,"United States","San Jose",California,95123,West,"Office Supplies",Paper,58.38,7,0.00,26.27,45.00,"No Discount",6071.22
+155,"First Class",Corporate,"United States","San Jose",California,95123,West,"Office Supplies",Paper,105.52,4,0.00,48.54,46.00,"No Discount",6071.22
+156,"First Class",Corporate,"United States","San Jose",California,95123,West,"Office Supplies",Storage,80.88,6,0.00,21.03,26.00,"No Discount",6071.22
+157,"Standard Class","Home Office","United States",Seattle,Washington,98105,West,"Office Supplies",Art,6.63,3,0.00,1.79,27.00,"No Discount",119540.74
+158,"Second Class",Consumer,"United States",Seattle,Washington,98115,West,Furniture,Chairs,457.57,2,0.20,51.48,11.25,"Positive Impact",119540.74
+159,"Standard Class",Consumer,"United States",Edmond,Oklahoma,73034,Central,"Office Supplies",Labels,14.62,2,0.00,6.87,46.99,"No Discount",959.55
+160,"Standard Class",Consumer,"United States",Edmond,Oklahoma,73034,Central,Technology,Phones,944.93,7,0.00,236.23,25.00,"No Discount",959.55
+161,"First Class",Consumer,"United States","Los Angeles",California,90045,West,"Office Supplies",Paper,5.98,1,0.00,2.69,44.98,"No Discount",175851.33
+162,"Second Class",Consumer,"United States",Philadelphia,Pennsylvania,19134,East,Technology,Accessories,54.38,2,0.20,1.36,2.50,"Positive Impact",109077.09
+163,"Standard Class",Consumer,"United States",Carlsbad,"New Mexico",88220,West,"Office Supplies",Envelopes,28.40,5,0.00,13.35,47.01,"No Discount",419.35
+164,"Standard Class",Consumer,"United States",Seattle,Washington,98115,West,"Office Supplies",Binders,27.68,2,0.20,9.69,35.01,"Positive Impact",119540.74
+165,"Standard Class",Consumer,"United States","San Antonio",Texas,78207,Central,"Office Supplies",Art,9.94,3,0.20,2.73,27.46,"Positive Impact",21843.54
+166,"Standard Class",Consumer,"United States","San Antonio",Texas,78207,Central,Technology,Machines,8159.95,8,0.40,-1359.99,-16.67,"Negative Impact",21843.54
+167,"Standard Class",Consumer,"United States","San Antonio",Texas,78207,Central,"Office Supplies",Storage,275.93,3,0.20,-58.63,-21.25,"Negative Impact",21843.54
+168,"Standard Class",Consumer,"United States","San Antonio",Texas,78207,Central,Furniture,Chairs,1740.06,9,0.30,-24.86,-1.43,"Negative Impact",21843.54
+169,"Standard Class",Consumer,"United States","San Antonio",Texas,78207,Central,"Office Supplies",Art,32.06,6,0.20,6.81,21.24,"Positive Impact",21843.54
+170,"Standard Class",Consumer,"United States","San Antonio",Texas,78207,Central,"Office Supplies",Appliances,177.98,5,0.80,-453.85,-255.00,"Negative Impact",21843.54
+171,"Standard Class",Consumer,"United States","San Antonio",Texas,78207,Central,Technology,Phones,143.98,3,0.20,9.00,6.25,"Positive Impact",21843.54
+172,"Standard Class",Consumer,"United States","Los Angeles",California,90004,West,"Office Supplies",Paper,20.94,3,0.00,9.84,46.99,"No Discount",175851.33
+173,"Standard Class",Consumer,"United States","Los Angeles",California,90004,West,"Office Supplies",Paper,110.96,2,0.00,53.26,48.00,"No Discount",175851.33
+174,"Standard Class",Consumer,"United States","Los Angeles",California,90004,West,Furniture,Chairs,340.14,7,0.20,21.26,6.25,"Positive Impact",175851.33
+175,"Standard Class",Corporate,"United States",Chicago,Illinois,60623,Central,"Office Supplies",Appliances,52.45,2,0.80,-131.12,-249.99,"Negative Impact",48539.59
+176,"Standard Class",Corporate,"United States",Chicago,Illinois,60623,Central,"Office Supplies",Labels,20.16,4,0.20,6.55,32.49,"Positive Impact",48539.59
+177,"Second Class",Consumer,"United States",Houston,Texas,77036,Central,"Office Supplies",Appliances,97.26,4,0.80,-243.16,-250.01,"Negative Impact",64504.71
+178,"Second Class",Consumer,"United States",Newark,Ohio,43055,East,Furniture,Chairs,396.80,7,0.30,-11.34,-2.86,"Negative Impact",28576.15
+179,"Second Class",Consumer,"United States",Newark,Ohio,43055,East,"Office Supplies",Supplies,15.88,5,0.20,-3.77,-23.74,"Negative Impact",28576.15
+180,"Standard Class","Home Office","United States","New York City","New York",10009,East,"Office Supplies",Art,3.28,1,0.00,1.41,42.99,"No Discount",256368.12
+181,"Second Class",Corporate,"United States",Decatur,Illinois,62521,Central,"Office Supplies",Storage,24.82,2,0.20,1.86,7.49,"Positive Impact",6544.30
+182,"Second Class",Corporate,"United States",Decatur,Illinois,62521,Central,Technology,Accessories,408.74,7,0.20,76.64,18.75,"Positive Impact",6544.30
+183,"Second Class","Home Office","United States",Monroe,Louisiana,71203,South,Technology,Phones,503.96,4,0.00,131.03,26.00,"No Discount",2970.43
+184,"Second Class","Home Office","United States",Monroe,Louisiana,71203,South,Technology,Phones,149.95,5,0.00,41.99,28.00,"No Discount",2970.43
+185,"Second Class","Home Office","United States",Monroe,Louisiana,71203,South,Technology,Accessories,29.00,2,0.00,7.25,25.00,"No Discount",2970.43
+186,"Standard Class",Consumer,"United States",Fairfield,Connecticut,6824,East,"Office Supplies",Binders,7.16,2,0.00,3.44,48.04,"No Discount",9483.85
+187,"Standard Class","Home Office","United States","Los Angeles",California,90032,West,Technology,Accessories,176.80,8,0.00,22.98,13.00,"No Discount",175851.33
+188,"Standard Class",Corporate,"United States","Grand Prairie",Texas,75051,Central,"Office Supplies",Storage,37.22,3,0.20,3.72,9.99,"Positive Impact",1012.49
+189,"Standard Class",Corporate,"United States","Grand Prairie",Texas,75051,Central,"Office Supplies",Paper,20.02,3,0.20,6.26,31.27,"Positive Impact",1012.49
+190,"First Class","Home Office","United States","New York City","New York",10035,East,Furniture,Bookcases,899.14,4,0.20,112.39,12.50,"Positive Impact",256368.12
+191,"First Class","Home Office","United States","New York City","New York",10035,East,Technology,Phones,71.76,6,0.00,20.09,28.00,"No Discount",256368.12
+192,"First Class","Home Office","United States","New York City","New York",10035,East,"Office Supplies",Paper,51.84,8,0.00,24.88,47.99,"No Discount",256368.12
+193,"First Class","Home Office","United States","New York City","New York",10035,East,Furniture,Bookcases,626.35,3,0.20,46.98,7.50,"Positive Impact",256368.12
+194,"First Class","Home Office","United States","New York City","New York",10035,East,"Office Supplies",Art,19.90,5,0.00,6.57,33.02,"No Discount",256368.12
+195,"Standard Class",Corporate,"United States",Redlands,California,92374,West,"Office Supplies",Envelopes,14.28,7,0.00,6.71,46.99,"No Discount",2891.02
+196,"Standard Class",Consumer,"United States",Hamilton,Ohio,45011,East,"Office Supplies",Art,7.41,2,0.20,1.20,16.19,"Positive Impact",328.23
+197,"Standard Class",Consumer,"United States",Hamilton,Ohio,45011,East,"Office Supplies",Art,6.05,3,0.20,1.59,26.28,"Positive Impact",328.23
+198,"Standard Class","Home Office","United States",Westfield,"New Jersey",7090,East,"Office Supplies",Storage,46.26,3,0.00,12.03,26.01,"No Discount",519.72
+199,"Standard Class",Corporate,"United States",Philadelphia,Pennsylvania,19120,East,"Office Supplies",Binders,2.95,2,0.70,-2.26,-76.61,"Negative Impact",109077.09
+200,"Standard Class",Corporate,"United States",Philadelphia,Pennsylvania,19120,East,"Office Supplies",Paper,16.06,3,0.20,5.82,36.24,"Positive Impact",109077.09
+201,"Standard Class",Consumer,"United States",Akron,Ohio,44312,East,"Office Supplies",Paper,21.74,3,0.20,6.80,31.28,"Positive Impact",2729.99
+202,"First Class",Consumer,"United States",Denver,Colorado,80219,West,Furniture,Tables,218.75,2,0.50,-161.88,-74.00,"Negative Impact",12198.78
+203,"First Class",Consumer,"United States",Denver,Colorado,80219,West,"Office Supplies",Appliances,2.60,1,0.20,0.29,11.15,"Positive Impact",12198.78
+204,"Second Class",Consumer,"United States",Dallas,Texas,75220,Central,"Office Supplies",Appliances,66.28,2,0.80,-178.97,-270.02,"Negative Impact",20131.90
+205,"Standard Class",Corporate,"United States",Franklin,Tennessee,37064,South,Furniture,Furnishings,35.17,7,0.20,9.67,27.50,"Positive Impact",11257.03
+206,"Standard Class",Consumer,"United States",Whittier,California,90604,West,Technology,Phones,444.77,4,0.20,44.48,10.00,"Positive Impact",444.77
+207,"Standard Class",Consumer,"United States",Saginaw,Michigan,48601,Central,"Office Supplies",Storage,83.92,4,0.00,5.87,6.99,"No Discount",395.86
+208,"Standard Class",Consumer,"United States",Saginaw,Michigan,48601,Central,Technology,Phones,131.98,2,0.00,35.63,27.00,"No Discount",395.86
+209,"Standard Class",Consumer,"United States",Saginaw,Michigan,48601,Central,"Office Supplies",Binders,15.92,4,0.00,7.48,46.98,"No Discount",395.86
+210,"Standard Class",Consumer,"United States",Saginaw,Michigan,48601,Central,"Office Supplies",Fasteners,52.29,9,0.00,16.21,31.00,"No Discount",395.86
+211,"Standard Class",Consumer,"United States",Saginaw,Michigan,48601,Central,"Office Supplies",Storage,91.99,1,0.00,3.68,4.00,"No Discount",395.86
+212,"Second Class",Corporate,"United States",Dallas,Texas,75220,Central,Technology,Accessories,20.80,2,0.20,6.50,31.25,"Positive Impact",20131.90
+213,"Standard Class",Corporate,"United States",Medina,Ohio,44256,East,"Office Supplies",Labels,23.68,2,0.20,8.88,37.50,"Positive Impact",2477.71
+214,"Standard Class",Corporate,"United States",Medina,Ohio,44256,East,Furniture,Bookcases,452.45,5,0.50,-244.32,-54.00,"Negative Impact",2477.71
+215,"Standard Class",Corporate,"United States",Medina,Ohio,44256,East,Technology,Phones,62.98,3,0.40,-14.70,-23.34,"Negative Impact",2477.71
+216,"Standard Class",Corporate,"United States",Medina,Ohio,44256,East,Technology,Machines,1188.00,9,0.70,-950.40,-80.00,"Negative Impact",2477.71
+217,"Standard Class",Corporate,"United States",Medina,Ohio,44256,East,Technology,Accessories,89.58,2,0.20,4.48,5.00,"Positive Impact",2477.71
+218,"Standard Class",Consumer,"United States","Los Angeles",California,90032,West,"Office Supplies",Storage,93.06,6,0.00,26.06,28.00,"No Discount",175851.33
+219,"Standard Class",Consumer,"United States","Los Angeles",California,90032,West,Technology,Phones,302.38,3,0.20,22.68,7.50,"Positive Impact",175851.33
+220,"First Class",Consumer,"United States",Dublin,Ohio,43017,East,"Office Supplies",Fasteners,5.58,2,0.20,1.81,32.44,"Positive Impact",2401.16
+221,"First Class",Consumer,"United States",Dublin,Ohio,43017,East,"Office Supplies",Paper,22.70,6,0.20,8.23,36.26,"Positive Impact",2401.16
+222,"First Class",Consumer,"United States",Dublin,Ohio,43017,East,"Office Supplies",Binders,19.78,4,0.70,-13.84,-69.97,"Negative Impact",2401.16
+223,"First Class",Consumer,"United States",Dublin,Ohio,43017,East,Furniture,Furnishings,72.70,4,0.20,19.08,26.24,"Positive Impact",2401.16
+224,"First Class",Consumer,"United States",Dublin,Ohio,43017,East,Technology,Machines,479.99,4,0.70,-383.99,-80.00,"Negative Impact",2401.16
+225,"First Class",Consumer,"United States",Dublin,Ohio,43017,East,"Office Supplies",Art,27.17,2,0.20,2.72,10.01,"Positive Impact",2401.16
+226,"Standard Class",Corporate,"United States",Detroit,Michigan,48227,Central,"Office Supplies",Art,2.20,1,0.00,0.97,44.09,"No Discount",42446.94
+227,"Standard Class",Corporate,"United States",Detroit,Michigan,48227,Central,Furniture,Tables,622.45,5,0.00,136.94,22.00,"No Discount",42446.94
+228,"Standard Class",Corporate,"United States",Detroit,Michigan,48227,Central,"Office Supplies",Storage,21.98,1,0.00,0.22,1.00,"No Discount",42446.94
+229,"Standard Class",Consumer,"United States",Columbia,Tennessee,38401,South,Furniture,Chairs,161.57,2,0.20,-28.27,-17.50,"Negative Impact",25283.34
+230,"Standard Class",Consumer,"United States",Columbia,Tennessee,38401,South,Furniture,Chairs,389.70,8,0.20,43.84,11.25,"Positive Impact",25283.34
+231,"Standard Class",Corporate,"United States",Charlotte,"North Carolina",28205,South,"Office Supplies",Binders,18.65,7,0.70,-12.43,-66.65,"Negative Impact",13693.33
+232,"Standard Class","Home Office","United States",Tampa,Florida,33614,South,Furniture,Tables,233.86,2,0.45,-102.05,-43.64,"Negative Impact",5196.10
+233,"Standard Class","Home Office","United States",Tampa,Florida,33614,South,Furniture,Tables,620.61,3,0.45,-248.25,-40.00,"Negative Impact",5196.10
+234,"Standard Class","Home Office","United States",Tampa,Florida,33614,South,"Office Supplies",Binders,5.33,2,0.70,-3.55,-66.60,"Negative Impact",5196.10
+235,"Standard Class","Home Office","United States",Tampa,Florida,33614,South,Furniture,Furnishings,258.07,3,0.20,0.00,0.00,"Negative Impact",5196.10
+236,"Standard Class","Home Office","United States",Tampa,Florida,33614,South,Technology,Accessories,617.98,3,0.20,-7.72,-1.25,"Negative Impact",5196.10
+237,"Standard Class",Corporate,"United States","Santa Clara",California,95051,West,"Office Supplies",Paper,10.56,2,0.00,4.75,44.98,"No Discount",222.19
+238,"Second Class",Consumer,"United States",Chicago,Illinois,60610,Central,"Office Supplies",Paper,25.92,5,0.20,9.40,36.27,"Positive Impact",48539.59
+239,"Second Class",Consumer,"United States",Chicago,Illinois,60610,Central,Furniture,Furnishings,419.68,5,0.60,-356.73,-85.00,"Negative Impact",48539.59
+240,"Second Class",Consumer,"United States",Chicago,Illinois,60610,Central,Furniture,Furnishings,11.69,3,0.60,-4.68,-40.03,"Negative Impact",48539.59
+241,"Second Class",Consumer,"United States",Chicago,Illinois,60610,Central,Technology,Phones,31.98,2,0.20,11.19,34.99,"Positive Impact",48539.59
+242,"Second Class",Consumer,"United States",Chicago,Illinois,60610,Central,Furniture,Tables,177.23,5,0.50,-120.51,-68.00,"Negative Impact",48539.59
+243,"Second Class",Consumer,"United States",Chicago,Illinois,60610,Central,Furniture,Furnishings,4.04,3,0.60,-2.83,-70.05,"Negative Impact",48539.59
+244,"Second Class",Consumer,"United States",Chicago,Illinois,60610,Central,"Office Supplies",Art,7.41,2,0.20,1.20,16.19,"Positive Impact",48539.59
+245,"Second Class","Home Office","United States",Lakeville,Minnesota,55044,Central,Furniture,Chairs,2001.86,7,0.00,580.54,29.00,"No Discount",4260.95
+246,"Second Class","Home Office","United States",Lakeville,Minnesota,55044,Central,"Office Supplies",Storage,166.72,2,0.00,41.68,25.00,"No Discount",4260.95
+247,"Second Class","Home Office","United States",Lakeville,Minnesota,55044,Central,"Office Supplies",Paper,47.88,6,0.00,23.94,50.00,"No Discount",4260.95
+248,"Second Class","Home Office","United States",Lakeville,Minnesota,55044,Central,"Office Supplies",Appliances,1503.25,5,0.00,496.07,33.00,"No Discount",4260.95
+249,"Second Class","Home Office","United States",Lakeville,Minnesota,55044,Central,"Office Supplies",Paper,25.92,4,0.00,12.44,47.99,"No Discount",4260.95
+250,"Second Class",Consumer,"United States","San Francisco",California,94109,West,Furniture,Chairs,321.57,2,0.20,28.14,8.75,"Positive Impact",112669.09
+251,"Standard Class",Consumer,"United States","San Diego",California,92037,West,"Office Supplies",Paper,7.61,1,0.00,3.58,47.04,"No Discount",47521.05
+252,"Standard Class",Consumer,"United States","San Diego",California,92037,West,Technology,Accessories,3347.37,13,0.00,636.00,19.00,"No Discount",47521.05
+253,"First Class",Consumer,"United States","New York City","New York",10024,East,"Office Supplies",Storage,80.58,6,0.00,22.56,28.00,"No Discount",256368.12
+254,"First Class",Consumer,"United States","New York City","New York",10024,East,"Office Supplies",Envelopes,361.92,4,0.00,162.86,45.00,"No Discount",256368.12
+255,"Standard Class",Corporate,"United States",Chicago,Illinois,60623,Central,Furniture,Furnishings,12.13,9,0.60,-8.49,-69.99,"Negative Impact",48539.59
+256,"Standard Class",Corporate,"United States",Chicago,Illinois,60623,Central,"Office Supplies",Storage,82.37,2,0.20,-19.56,-23.75,"Negative Impact",48539.59
+257,"Standard Class",Corporate,"United States",Chicago,Illinois,60623,Central,"Office Supplies",Storage,53.92,5,0.20,4.04,7.49,"Positive Impact",48539.59
+258,"Standard Class",Corporate,"United States",Chicago,Illinois,60623,Central,Technology,Phones,647.90,6,0.20,56.69,8.75,"Positive Impact",48539.59
+259,"Second Class",Consumer,"United States","New York City","New York",10009,East,Technology,Accessories,20.37,3,0.00,6.93,34.02,"No Discount",256368.12
+260,"Second Class",Consumer,"United States","New York City","New York",10009,East,"Office Supplies",Storage,221.55,3,0.00,6.65,3.00,"No Discount",256368.12
+261,"Second Class",Consumer,"United States","New York City","New York",10009,East,"Office Supplies",Binders,17.52,5,0.20,6.13,34.99,"Positive Impact",256368.12
+262,"Standard Class",Corporate,"United States",Pasadena,Texas,77506,Central,"Office Supplies",Appliances,1.62,2,0.80,-4.47,-275.93,"Negative Impact",6590.16
+263,"Second Class",Corporate,"United States",Houston,Texas,77036,Central,Technology,Machines,3059.98,3,0.40,-510.00,-16.67,"Negative Impact",64504.71
+264,"Second Class",Corporate,"United States",Houston,Texas,77036,Central,Technology,Machines,2519.96,7,0.40,-252.00,-10.00,"Negative Impact",64504.71
+265,"Standard Class",Consumer,"United States",Chicago,Illinois,60610,Central,Technology,Phones,328.22,4,0.20,28.72,8.75,"Positive Impact",48539.59
+266,"Standard Class",Consumer,"United States",Brentwood,California,94513,West,Technology,Accessories,79.90,2,0.00,35.16,44.01,"No Discount",5090.12
+267,"Standard Class",Corporate,"United States","Chapel Hill","North Carolina",27514,South,"Office Supplies",Art,14.02,3,0.20,4.73,33.74,"Positive Impact",14.02
+268,"Standard Class",Consumer,"United States",Morristown,"New Jersey",7960,East,"Office Supplies",Fasteners,7.56,6,0.00,0.30,3.97,"No Discount",5033.10
+269,"Standard Class",Corporate,"United States",Cincinnati,Ohio,45231,East,"Office Supplies",Storage,37.21,1,0.20,-7.44,-19.99,"Negative Impact",1611.98
+270,"Standard Class",Corporate,"United States",Cincinnati,Ohio,45231,East,"Office Supplies",Envelopes,57.58,3,0.20,21.59,37.50,"Positive Impact",1611.98
+271,"Second Class",Corporate,"United States","San Francisco",California,94110,West,"Office Supplies",Storage,725.84,4,0.00,210.49,29.00,"No Discount",112669.09
+272,"First Class",Consumer,"United States","San Francisco",California,94109,West,Technology,Accessories,209.93,7,0.00,92.37,44.00,"No Discount",112669.09
+273,"First Class",Consumer,"United States","San Francisco",California,94109,West,Furniture,Furnishings,5.28,3,0.00,2.32,43.94,"No Discount",112669.09
+274,"First Class",Consumer,"United States","San Francisco",California,94109,West,"Office Supplies",Binders,10.92,3,0.20,4.10,37.55,"Positive Impact",112669.09
+275,"First Class",Corporate,"United States",Inglewood,California,90301,West,"Office Supplies",Paper,8.82,2,0.00,4.06,46.03,"No Discount",3479.33
+276,"First Class",Corporate,"United States",Inglewood,California,90301,West,"Office Supplies",Art,5.98,1,0.00,1.55,25.92,"No Discount",3479.33
+277,"Standard Class",Corporate,"United States",Philadelphia,Pennsylvania,19140,East,"Office Supplies",Paper,11.65,2,0.20,4.08,35.02,"Positive Impact",109077.09
+278,"Standard Class",Corporate,"United States",Philadelphia,Pennsylvania,19140,East,"Office Supplies",Paper,18.18,4,0.20,5.91,32.51,"Positive Impact",109077.09
+279,"Standard Class",Corporate,"United States",Philadelphia,Pennsylvania,19140,East,"Office Supplies",Storage,59.71,6,0.20,5.97,10.00,"Positive Impact",109077.09
+280,"Standard Class",Corporate,"United States",Philadelphia,Pennsylvania,19140,East,"Office Supplies",Labels,24.84,3,0.20,8.69,34.98,"Positive Impact",109077.09
+281,"Second Class",Consumer,"United States",Houston,Texas,77070,Central,"Office Supplies",Binders,2.08,5,0.80,-3.43,-164.90,"Negative Impact",64504.71
+282,"Second Class",Consumer,"United States",Houston,Texas,77070,Central,Technology,Phones,1114.40,7,0.20,376.11,33.75,"Positive Impact",64504.71
+283,"Standard Class",Consumer,"United States","Los Angeles",California,90004,West,Furniture,Tables,1038.84,5,0.20,51.94,5.00,"Positive Impact",175851.33
+284,"Standard Class",Consumer,"United States",Portland,Oregon,97206,West,"Office Supplies",Paper,141.76,5,0.20,47.84,33.75,"Positive Impact",4051.86
+285,"Standard Class",Consumer,"United States",Portland,Oregon,97206,West,Technology,Accessories,239.80,5,0.20,47.96,20.00,"Positive Impact",4051.86
+286,"Standard Class",Consumer,"United States",Portland,Oregon,97206,West,"Office Supplies",Paper,31.10,6,0.20,10.89,35.02,"Positive Impact",4051.86
+287,"Second Class",Corporate,"United States",Tamarac,Florida,33319,South,"Office Supplies",Binders,254.06,7,0.70,-169.37,-66.67,"Negative Impact",1413.51
+288,"Second Class",Corporate,"United States",Tamarac,Florida,33319,South,"Office Supplies",Appliances,194.53,2,0.20,24.32,12.50,"Positive Impact",1413.51
+289,"Second Class",Corporate,"United States",Tamarac,Florida,33319,South,"Office Supplies",Supplies,961.48,5,0.20,-204.31,-21.25,"Negative Impact",1413.51
+290,"Second Class","Home Office","United States",Columbus,Ohio,43229,East,"Office Supplies",Fasteners,19.10,7,0.20,6.68,34.97,"Positive Impact",38706.23
+291,"Second Class","Home Office","United States",Columbus,Ohio,43229,East,"Office Supplies",Labels,18.50,8,0.20,6.24,33.73,"Positive Impact",38706.23
+292,"Second Class","Home Office","United States",Columbus,Ohio,43229,East,Technology,Accessories,255.98,2,0.20,54.40,21.25,"Positive Impact",38706.23
+293,"Second Class","Home Office","United States",Columbus,Ohio,43229,East,Furniture,Bookcases,86.97,3,0.50,-48.70,-56.00,"Negative Impact",38706.23
+294,"First Class",Corporate,"United States","Colorado Springs",Colorado,80906,West,Furniture,Furnishings,300.42,8,0.20,78.86,26.25,"Positive Impact",3694.03
+295,"First Class",Corporate,"United States","Colorado Springs",Colorado,80906,West,Furniture,Chairs,230.35,3,0.20,20.16,8.75,"Positive Impact",3694.03
+296,"First Class",Corporate,"United States","Colorado Springs",Colorado,80906,West,Furniture,Furnishings,218.35,3,0.20,-24.56,-11.25,"Negative Impact",3694.03
+297,"First Class",Corporate,"United States","Colorado Springs",Colorado,80906,West,"Office Supplies",Binders,78.60,5,0.70,-62.88,-80.00,"Negative Impact",3694.03
+298,"First Class",Corporate,"United States","Colorado Springs",Colorado,80906,West,"Office Supplies",Fasteners,27.55,3,0.20,9.30,33.76,"Positive Impact",3694.03
+299,"Standard Class",Corporate,"United States",Belleville,"New Jersey",7109,East,"Office Supplies",Paper,32.40,5,0.00,15.55,47.99,"No Discount",1891.60
+300,"Standard Class",Corporate,"United States",Belleville,"New Jersey",7109,East,"Office Supplies",Storage,1082.48,8,0.00,10.82,1.00,"No Discount",1891.60
+301,"Standard Class",Corporate,"United States",Belleville,"New Jersey",7109,East,"Office Supplies",Paper,56.91,3,0.00,27.32,48.01,"No Discount",1891.60
+302,"Standard Class",Corporate,"United States",Belleville,"New Jersey",7109,East,Furniture,Furnishings,77.60,4,0.00,38.02,48.99,"No Discount",1891.60
+303,"Standard Class",Corporate,"United States",Belleville,"New Jersey",7109,East,"Office Supplies",Binders,14.28,1,0.00,6.57,46.01,"No Discount",1891.60
+304,"Standard Class",Consumer,"United States",Chicago,Illinois,60623,Central,Furniture,Tables,219.08,3,0.50,-131.45,-60.00,"Negative Impact",48539.59
+305,"Second Class",Corporate,"United States","New York City","New York",10024,East,Furniture,Furnishings,26.80,2,0.00,12.86,47.99,"No Discount",256368.12
+306,"Standard Class",Corporate,"United States",Taylor,Michigan,48180,Central,"Office Supplies",Art,9.84,3,0.00,2.85,28.96,"No Discount",353.70
+307,"Standard Class","Home Office","United States",Lakewood,"New Jersey",8701,East,"Office Supplies",Binders,45.48,3,0.00,20.92,46.00,"No Discount",18192.06
+308,"Standard Class","Home Office","United States",Lakewood,"New Jersey",8701,East,"Office Supplies",Art,289.20,6,0.00,83.87,29.00,"No Discount",18192.06
+309,"First Class",Consumer,"United States",Arlington,Virginia,22204,South,"Office Supplies",Art,4.89,1,0.00,2.00,40.90,"No Discount",20214.53
+310,"Second Class",Corporate,"United States",Arvada,Colorado,80004,West,Furniture,Furnishings,15.14,4,0.20,3.59,23.71,"Positive Impact",503.40
+311,"Second Class",Corporate,"United States",Arvada,Colorado,80004,West,Furniture,Chairs,466.77,2,0.20,52.51,11.25,"Positive Impact",503.40
+312,"Second Class",Corporate,"United States",Arvada,Colorado,80004,West,Furniture,Furnishings,15.23,1,0.20,1.71,11.23,"Positive Impact",503.40
+313,"Second Class",Corporate,"United States",Arvada,Colorado,80004,West,"Office Supplies",Labels,6.26,3,0.20,2.04,32.59,"Positive Impact",503.40
+314,"Standard Class",Corporate,"United States",Hackensack,"New Jersey",7601,East,Furniture,Furnishings,87.54,3,0.00,37.64,43.00,"No Discount",1456.16
+315,"Standard Class",Corporate,"United States","Saint Petersburg",Florida,33710,South,Technology,Phones,178.38,2,0.20,22.30,12.50,"Positive Impact",1690.79
+316,"Standard Class",Corporate,"United States","Saint Petersburg",Florida,33710,South,"Office Supplies",Paper,15.55,3,0.20,5.44,34.98,"Positive Impact",1690.79
+317,"First Class",Corporate,"United States",Philadelphia,Pennsylvania,19143,East,"Office Supplies",Art,99.14,4,0.20,8.67,8.75,"Positive Impact",109077.09
+318,"Standard Class","Home Office","United States","New York City","New York",10024,East,Furniture,Chairs,135.88,1,0.10,24.16,17.78,"Positive Impact",256368.12
+319,"Standard Class","Home Office","United States","New York City","New York",10024,East,Technology,Machines,3991.98,2,0.00,1995.99,50.00,"No Discount",256368.12
+320,"Standard Class","Home Office","United States","New York City","New York",10024,East,Technology,Phones,275.94,6,0.00,80.02,29.00,"No Discount",256368.12
+321,"Standard Class","Home Office","United States","New York City","New York",10024,East,Technology,Accessories,360.00,4,0.00,129.60,36.00,"No Discount",256368.12
+322,"Standard Class","Home Office","United States","New York City","New York",10024,East,"Office Supplies",Storage,43.57,1,0.00,13.07,30.00,"No Discount",256368.12
+323,"Standard Class",Corporate,"United States","Long Beach",California,90805,West,"Office Supplies",Fasteners,7.16,2,0.00,3.58,50.00,"No Discount",13455.02
+324,"Standard Class",Corporate,"United States",Hesperia,California,92345,West,"Office Supplies",Binders,251.52,6,0.20,81.74,32.50,"Positive Impact",1213.17
+325,"Standard Class",Corporate,"United States",Hesperia,California,92345,West,Technology,Accessories,99.99,1,0.00,35.00,35.00,"No Discount",1213.17
+326,"Second Class",Corporate,"United States",Murfreesboro,Tennessee,37130,South,Furniture,Furnishings,15.99,1,0.20,1.00,6.25,"Positive Impact",337.32
+327,"First Class",Consumer,"United States",Philadelphia,Pennsylvania,19143,East,Technology,Phones,290.90,3,0.40,-67.88,-23.33,"Negative Impact",109077.09
+328,"First Class",Consumer,"United States",Philadelphia,Pennsylvania,19143,East,"Office Supplies",Storage,54.22,2,0.20,3.39,6.25,"Positive Impact",109077.09
+329,"First Class",Consumer,"United States",Philadelphia,Pennsylvania,19143,East,Furniture,Chairs,786.74,4,0.30,-258.50,-32.86,"Negative Impact",109077.09
+330,"First Class",Consumer,"United States",Philadelphia,Pennsylvania,19143,East,"Office Supplies",Labels,100.24,10,0.20,33.83,33.75,"Positive Impact",109077.09
+331,"First Class",Consumer,"United States",Philadelphia,Pennsylvania,19143,East,"Office Supplies",Binders,37.76,6,0.70,-27.69,-73.33,"Negative Impact",109077.09
+332,"Second Class",Consumer,"United States",Philadelphia,Pennsylvania,19134,East,Technology,Phones,82.80,2,0.40,-20.70,-25.00,"Negative Impact",109077.09
+333,"Second Class",Consumer,"United States",Philadelphia,Pennsylvania,19134,East,"Office Supplies",Binders,20.72,2,0.70,-13.82,-66.70,"Negative Impact",109077.09
+334,"Second Class",Consumer,"United States",Philadelphia,Pennsylvania,19134,East,"Office Supplies",Binders,4.90,3,0.70,-3.43,-70.00,"Negative Impact",109077.09
+335,"Second Class",Consumer,"United States","Los Angeles",California,90045,West,"Office Supplies",Binders,4.75,1,0.20,1.60,33.68,"Positive Impact",175851.33
+336,"Second Class",Consumer,"United States","Los Angeles",California,90045,West,Technology,Copiers,959.98,2,0.20,335.99,35.00,"Positive Impact",175851.33
+337,"Second Class",Consumer,"United States","Los Angeles",California,90045,West,"Office Supplies",Binders,14.37,4,0.20,4.49,31.25,"Positive Impact",175851.33
+338,"Standard Class",Corporate,"United States","San Francisco",California,94122,West,"Office Supplies",Binders,7.71,2,0.20,2.80,36.32,"Positive Impact",112669.09
+339,"Standard Class",Corporate,"United States","San Francisco",California,94122,West,Furniture,Tables,698.35,3,0.20,-17.46,-2.50,"Negative Impact",112669.09
+340,"Second Class",Consumer,"United States",Layton,Utah,84041,West,"Office Supplies",Fasteners,4.96,4,0.00,2.33,46.98,"No Discount",4.96
+341,"Second Class",Corporate,"United States",Philadelphia,Pennsylvania,19140,East,"Office Supplies",Art,17.86,4,0.20,1.12,6.27,"Positive Impact",109077.09
+342,"Second Class",Corporate,"United States",Philadelphia,Pennsylvania,19140,East,"Office Supplies",Binders,509.97,10,0.70,-407.98,-80.00,"Negative Impact",109077.09
+343,"Second Class",Corporate,"United States",Philadelphia,Pennsylvania,19140,East,"Office Supplies",Fasteners,30.99,13,0.20,10.07,32.49,"Positive Impact",109077.09
+344,"Second Class",Corporate,"United States",Philadelphia,Pennsylvania,19140,East,Technology,Phones,71.93,12,0.40,8.39,11.66,"Positive Impact",109077.09
+345,"Standard Class",Consumer,"United States",Austin,Texas,78745,Central,"Office Supplies",Storage,88.80,4,0.20,-2.22,-2.50,"Negative Impact",6058.01
+346,"Standard Class",Consumer,"United States","San Francisco",California,94122,West,Technology,Phones,47.98,3,0.20,4.80,10.00,"Positive Impact",112669.09
+347,"Standard Class",Consumer,"United States",Lowell,Massachusetts,1852,East,"Office Supplies",Art,7.56,3,0.00,3.10,41.01,"No Discount",4837.93
+348,"Standard Class",Consumer,"United States",Lowell,Massachusetts,1852,East,"Office Supplies",Paper,24.56,2,0.00,11.54,46.99,"No Discount",4837.93
+349,"Standard Class",Consumer,"United States",Lowell,Massachusetts,1852,East,"Office Supplies",Art,12.96,2,0.00,4.15,32.02,"No Discount",4837.93
+350,"First Class","Home Office","United States","New York City","New York",10009,East,Technology,Accessories,6.79,1,0.00,2.31,34.02,"No Discount",256368.12
+351,"First Class","Home Office","United States","New York City","New York",10009,East,"Office Supplies",Paper,24.56,2,0.00,11.54,46.99,"No Discount",256368.12
+352,"First Class","Home Office","United States","New York City","New York",10009,East,"Office Supplies",Binders,3.05,1,0.20,1.07,35.08,"Positive Impact",256368.12
+353,"First Class","Home Office","United States","New York City","New York",10009,East,"Office Supplies",Paper,49.12,4,0.00,23.09,47.01,"No Discount",256368.12
+354,"First Class","Home Office","United States","New York City","New York",10009,East,"Office Supplies",Binders,4355.17,4,0.20,1415.43,32.50,"Positive Impact",256368.12
+355,"Standard Class",Consumer,"United States","New York City","New York",10035,East,Furniture,Bookcases,388.70,6,0.20,-4.86,-1.25,"Negative Impact",256368.12
+356,"Standard Class",Consumer,"United States","New York City","New York",10035,East,"Office Supplies",Envelopes,8.26,2,0.00,3.80,46.00,"No Discount",256368.12
+357,"Standard Class",Consumer,"United States","New York City","New York",10035,East,"Office Supplies",Art,17.04,4,0.00,6.99,41.02,"No Discount",256368.12
+358,"Standard Class",Consumer,"United States","New York City","New York",10035,East,"Office Supplies",Paper,34.40,5,0.00,15.82,45.99,"No Discount",256368.12
+359,"Standard Class",Corporate,"United States",Charlotte,"North Carolina",28205,South,"Office Supplies",Paper,36.24,5,0.20,11.33,31.26,"Positive Impact",13693.33
+360,"First Class",Corporate,"United States",Columbus,Georgia,31907,South,"Office Supplies",Appliances,647.84,8,0.00,168.44,26.00,"No Discount",38706.23
+361,"First Class",Corporate,"United States",Columbus,Georgia,31907,South,"Office Supplies",Labels,20.70,2,0.00,9.94,48.02,"No Discount",38706.23
+362,"Standard Class",Consumer,"United States","New York City","New York",10009,East,"Office Supplies",Labels,20.70,2,0.00,9.94,48.02,"No Discount",256368.12
+363,"Standard Class",Consumer,"United States","New York City","New York",10009,East,Furniture,Chairs,488.65,3,0.10,86.87,17.78,"Positive Impact",256368.12
+364,"Standard Class",Consumer,"United States","New York City","New York",10009,East,"Office Supplies",Art,5.56,2,0.00,1.45,26.08,"No Discount",256368.12
+365,"Standard Class",Consumer,"United States","New York City","New York",10009,East,Furniture,Furnishings,47.12,8,0.00,20.73,43.99,"No Discount",256368.12
+366,"Standard Class",Consumer,"United States","San Francisco",California,94109,West,"Office Supplies",Storage,211.96,4,0.00,8.48,4.00,"No Discount",112669.09
+367,"Same Day",Corporate,"United States",Manchester,Connecticut,6040,East,"Office Supplies",Binders,23.20,4,0.00,10.44,45.00,"No Discount",2126.28
+368,"Same Day",Corporate,"United States",Manchester,Connecticut,6040,East,"Office Supplies",Supplies,7.36,2,0.00,0.15,2.04,"No Discount",2126.28
+369,"Same Day",Corporate,"United States",Manchester,Connecticut,6040,East,"Office Supplies",Storage,104.79,7,0.00,29.34,28.00,"No Discount",2126.28
+370,"Same Day",Corporate,"United States",Manchester,Connecticut,6040,East,Furniture,Bookcases,1043.92,4,0.00,271.42,26.00,"No Discount",2126.28
+371,"Standard Class",Consumer,"United States",Harlingen,Texas,78550,Central,"Office Supplies",Paper,25.92,5,0.20,9.40,36.27,"Positive Impact",471.39
+372,"Standard Class",Consumer,"United States",Harlingen,Texas,78550,Central,"Office Supplies",Storage,53.42,3,0.20,4.67,8.74,"Positive Impact",471.39
+373,"Standard Class",Consumer,"United States",Tucson,Arizona,85705,West,"Office Supplies",Binders,8.16,5,0.70,-5.71,-69.98,"Negative Impact",6313.00
+374,"Standard Class",Consumer,"United States",Tucson,Arizona,85705,West,Technology,Accessories,1023.94,8,0.20,179.19,17.50,"Positive Impact",6313.00
+375,"Standard Class",Consumer,"United States",Tucson,Arizona,85705,West,"Office Supplies",Art,9.24,1,0.20,0.92,9.96,"Positive Impact",6313.00
+376,"Standard Class",Consumer,"United States",Tucson,Arizona,85705,West,Technology,Accessories,479.04,10,0.20,-29.94,-6.25,"Negative Impact",6313.00
+377,"First Class",Corporate,"United States",Quincy,Illinois,62301,Central,"Office Supplies",Paper,99.14,4,0.20,30.98,31.25,"Positive Impact",1276.46
+378,"Standard Class",Corporate,"United States",Franklin,Massachusetts,2038,East,Furniture,Tables,1488.42,7,0.30,-297.68,-20.00,"Negative Impact",11257.03
+379,"Standard Class",Consumer,"United States",Houston,Texas,77095,Central,"Office Supplies",Appliances,8.65,3,0.80,-20.33,-235.03,"Negative Impact",64504.71
+380,"Standard Class",Consumer,"United States",Houston,Texas,77095,Central,"Office Supplies",Storage,23.83,3,0.20,2.68,11.25,"Positive Impact",64504.71
+381,"Standard Class",Consumer,"United States",Houston,Texas,77095,Central,"Office Supplies",Binders,12.18,4,0.80,-18.87,-154.93,"Negative Impact",64504.71
+382,"First Class",Corporate,"United States","San Francisco",California,94109,West,"Office Supplies",Paper,50.96,7,0.00,25.48,50.00,"No Discount",112669.09
+383,"First Class",Corporate,"United States","San Francisco",California,94109,West,"Office Supplies",Binders,49.54,3,0.20,17.34,35.00,"Positive Impact",112669.09
+384,"Second Class",Corporate,"United States",Taylor,Michigan,48180,Central,Technology,Accessories,41.90,2,0.00,8.80,21.00,"No Discount",353.70
+385,"Standard Class",Consumer,"United States","Pembroke Pines",Florida,33024,South,Furniture,Tables,375.46,3,0.45,-157.01,-41.82,"Negative Impact",1714.38
+386,"Standard Class",Consumer,"United States","Pembroke Pines",Florida,33024,South,Technology,Accessories,83.98,3,0.20,-1.05,-1.25,"Negative Impact",1714.38
+387,"Standard Class",Corporate,"United States",Philadelphia,Pennsylvania,19140,East,Technology,Machines,482.34,4,0.70,-337.64,-70.00,"Negative Impact",109077.09
+388,"Standard Class",Corporate,"United States",Philadelphia,Pennsylvania,19140,East,Furniture,Furnishings,2.96,1,0.20,0.78,26.35,"Positive Impact",109077.09
+389,"First Class",Consumer,"United States",Cincinnati,Ohio,45231,East,"Office Supplies",Art,2.62,1,0.20,0.43,16.41,"Positive Impact",1611.98
+390,"Standard Class",Consumer,"United States","New York City","New York",10009,East,"Office Supplies",Binders,23.36,4,0.20,7.88,33.73,"Positive Impact",256368.12
+391,"Standard Class",Consumer,"United States","New York City","New York",10009,East,Technology,Accessories,39.98,2,0.00,13.59,33.99,"No Discount",256368.12
+392,"Second Class",Consumer,"United States","Des Moines",Washington,98198,West,Technology,Phones,246.38,2,0.20,27.72,11.25,"Positive Impact",5463.28
+393,"Second Class",Consumer,"United States","Des Moines",Washington,98198,West,Technology,Copiers,1799.97,3,0.00,701.99,39.00,"No Discount",5463.28
+394,"Second Class",Corporate,"United States",Peoria,Illinois,61604,Central,"Office Supplies",Binders,12.46,3,0.80,-20.56,-165.01,"Negative Impact",1842.83
+395,"Standard Class","Home Office","United States","Las Vegas",Nevada,89115,West,"Office Supplies",Binders,75.79,3,0.20,25.58,33.75,"Positive Impact",1834.02
+396,"Second Class",Corporate,"United States",Warwick,"Rhode Island",2886,East,"Office Supplies",Storage,49.96,2,0.00,9.49,19.00,"No Discount",2426.84
+397,"Second Class",Corporate,"United States",Warwick,"Rhode Island",2886,East,"Office Supplies",Paper,12.96,2,0.00,6.22,47.99,"No Discount",2426.84
+398,"Standard Class","Home Office","United States",Jackson,Michigan,49201,Central,"Office Supplies",Supplies,70.12,4,0.00,21.04,30.01,"No Discount",24963.85
+399,"Second Class",Consumer,"United States",Houston,Texas,77036,Central,"Office Supplies",Storage,35.95,3,0.20,3.60,10.01,"Positive Impact",64504.71
+400,"Second Class",Consumer,"United States",Houston,Texas,77036,Central,Furniture,Bookcases,2396.27,4,0.32,-317.15,-13.24,"Negative Impact",64504.71
+401,"Second Class",Consumer,"United States",Houston,Texas,77036,Central,"Office Supplies",Storage,131.14,4,0.20,-32.78,-25.00,"Negative Impact",64504.71
+402,"Second Class",Consumer,"United States",Houston,Texas,77036,Central,Technology,Accessories,57.58,2,0.20,0.72,1.25,"Positive Impact",64504.71
+403,"First Class",Consumer,"United States",Miami,Florida,33180,South,"Office Supplies",Paper,9.57,2,0.20,3.47,36.26,"Positive Impact",8673.08
+404,"Standard Class",Corporate,"United States",Wilmington,"North Carolina",28403,South,"Office Supplies",Art,39.07,6,0.20,9.77,25.01,"Positive Impact",7297.07
+405,"Standard Class",Consumer,"United States","New York City","New York",10024,East,"Office Supplies",Appliances,35.91,3,0.00,9.70,27.01,"No Discount",256368.12
+406,"Standard Class",Consumer,"United States","San Francisco",California,94110,West,Technology,Accessories,179.95,5,0.00,37.79,21.00,"No Discount",112669.09
+407,"Standard Class",Consumer,"United States","San Francisco",California,94110,West,Technology,Copiers,1199.98,3,0.20,434.99,36.25,"Positive Impact",112669.09
+408,"Standard Class",Consumer,"United States","San Francisco",California,94110,West,"Office Supplies",Paper,27.15,5,0.00,13.30,48.99,"No Discount",112669.09
+409,"Standard Class",Consumer,"United States","San Francisco",California,94110,West,Furniture,Tables,1004.02,7,0.20,-112.95,-11.25,"Negative Impact",112669.09
+410,"Standard Class",Consumer,"United States","San Francisco",California,94110,West,"Office Supplies",Paper,9.68,1,0.00,4.65,48.04,"No Discount",112669.09
+411,"Standard Class",Consumer,"United States","San Francisco",California,94110,West,"Office Supplies",Labels,28.35,9,0.00,13.61,48.01,"No Discount",112669.09
+412,"Standard Class",Consumer,"United States","San Francisco",California,94110,West,"Office Supplies",Paper,55.98,1,0.00,27.43,49.00,"No Discount",112669.09
+413,"Standard Class",Consumer,"United States","San Francisco",California,94110,West,Furniture,Bookcases,1336.83,13,0.15,31.45,2.35,"Positive Impact",112669.09
+414,"Standard Class",Consumer,"United States","San Francisco",California,94110,West,Furniture,Chairs,113.57,2,0.20,-18.45,-16.25,"Negative Impact",112669.09
+415,"Standard Class",Corporate,"United States",Seattle,Washington,98105,West,"Office Supplies",Paper,139.86,7,0.00,65.73,47.00,"No Discount",119540.74
+416,"Standard Class",Corporate,"United States",Seattle,Washington,98105,West,Furniture,Chairs,307.14,4,0.20,26.87,8.75,"Positive Impact",119540.74
+417,"Standard Class",Consumer,"United States","Huntington Beach",California,92646,West,"Office Supplies",Art,95.92,8,0.00,25.90,27.00,"No Discount",2527.82
+418,"Standard Class",Consumer,"United States","Los Angeles",California,90004,West,Furniture,Chairs,383.80,5,0.20,38.38,10.00,"Positive Impact",175851.33
+419,"Standard Class",Corporate,"United States",Richmond,Kentucky,40475,South,"Office Supplies",Paper,5.78,1,0.00,2.83,48.96,"No Discount",18137.93
+420,"Standard Class",Corporate,"United States","Los Angeles",California,90045,West,"Office Supplies",Art,9.32,4,0.00,2.70,28.97,"No Discount",175851.33
+421,"Standard Class",Corporate,"United States","Los Angeles",California,90045,West,"Office Supplies",Envelopes,15.25,1,0.00,7.02,46.03,"No Discount",175851.33
+422,"First Class",Consumer,"United States",Louisville,Colorado,80027,West,Technology,Accessories,196.75,6,0.20,56.57,28.75,"Positive Impact",12345.80
+423,"Standard Class",Corporate,"United States",Lawrence,Massachusetts,1841,East,Furniture,Furnishings,56.56,4,0.00,14.71,26.01,"No Discount",7654.19
+424,"Standard Class",Corporate,"United States",Lawrence,Massachusetts,1841,East,"Office Supplies",Storage,32.70,3,0.00,8.50,25.99,"No Discount",7654.19
+425,"Second Class",Consumer,"United States",Jackson,Mississippi,39212,South,Furniture,Chairs,866.40,4,0.00,225.26,26.00,"No Discount",24963.85
+426,"Second Class",Corporate,"United States",Canton,Michigan,48187,Central,Furniture,Furnishings,28.40,2,0.00,11.08,39.01,"No Discount",818.13
+427,"Second Class",Corporate,"United States",Canton,Michigan,48187,Central,"Office Supplies",Binders,287.92,8,0.00,138.20,48.00,"No Discount",818.13
+428,"First Class","Home Office","United States","New Rochelle","New York",10801,East,Technology,Machines,69.99,1,0.00,30.10,43.01,"No Discount",1255.22
+429,"Standard Class",Corporate,"United States","San Antonio",Texas,78207,Central,"Office Supplies",Art,6.67,6,0.20,0.50,7.50,"Positive Impact",21843.54
+430,"Standard Class","Home Office","United States",Gastonia,"North Carolina",28052,South,"Office Supplies",Binders,189.59,2,0.70,-145.35,-76.67,"Negative Impact",895.06
+431,"Standard Class","Home Office","United States",Gastonia,"North Carolina",28052,South,Technology,Accessories,408.74,7,0.20,76.64,18.75,"Positive Impact",895.06
+432,"Standard Class","Home Office","United States",Gastonia,"North Carolina",28052,South,Technology,Accessories,291.96,5,0.20,54.74,18.75,"Positive Impact",895.06
+433,"Standard Class","Home Office","United States",Gastonia,"North Carolina",28052,South,"Office Supplies",Storage,4.77,2,0.20,-0.77,-16.14,"Negative Impact",895.06
+434,"First Class",Consumer,"United States",Lowell,Massachusetts,1852,East,"Office Supplies",Storage,714.30,5,0.00,207.15,29.00,"No Discount",4837.93
+435,"Standard Class",Consumer,"United States",Jacksonville,Florida,32216,South,"Office Supplies",Binders,4.81,2,0.70,-3.69,-76.72,"Negative Impact",44713.18
+436,"Standard Class",Consumer,"United States",Jacksonville,Florida,32216,South,Technology,Accessories,247.80,5,0.20,-18.59,-7.50,"Negative Impact",44713.18
+437,"Second Class","Home Office","United States",Chicago,Illinois,60623,Central,Technology,Machines,1007.98,3,0.30,43.20,4.29,"Positive Impact",48539.59
+438,"Second Class","Home Office","United States",Chicago,Illinois,60623,Central,"Office Supplies",Paper,313.49,7,0.20,113.64,36.25,"Positive Impact",48539.59
+439,"Standard Class",Corporate,"United States",Houston,Texas,77070,Central,"Office Supplies",Paper,31.87,8,0.20,11.55,36.24,"Positive Impact",64504.71
+440,"Second Class",Corporate,"United States","New York City","New York",10024,East,Furniture,Chairs,207.85,3,0.10,2.31,1.11,"Positive Impact",256368.12
+441,"Second Class",Consumer,"United States",Detroit,Michigan,48227,Central,Furniture,Furnishings,12.22,1,0.00,3.67,30.03,"No Discount",42446.94
+442,"Second Class",Consumer,"United States",Detroit,Michigan,48227,Central,"Office Supplies",Storage,194.94,3,0.00,23.39,12.00,"No Discount",42446.94
+443,"Second Class",Consumer,"United States",Detroit,Michigan,48227,Central,"Office Supplies",Storage,70.95,3,0.00,20.58,29.01,"No Discount",42446.94
+444,"Second Class",Consumer,"United States",Detroit,Michigan,48227,Central,"Office Supplies",Paper,91.36,4,0.00,42.03,46.00,"No Discount",42446.94
+445,"Second Class",Consumer,"United States",Detroit,Michigan,48227,Central,Furniture,Chairs,242.94,3,0.00,29.15,12.00,"No Discount",42446.94
+446,"Second Class",Consumer,"United States",Detroit,Michigan,48227,Central,"Office Supplies",Labels,22.05,7,0.00,10.58,47.98,"No Discount",42446.94
+447,"Second Class",Consumer,"United States",Columbus,Indiana,47201,Central,Furniture,Furnishings,2.91,1,0.00,1.37,47.08,"No Discount",38706.23
+448,"Second Class",Consumer,"United States",Auburn,"New York",13021,East,"Office Supplies",Art,59.52,3,0.00,15.48,26.01,"No Discount",3155.17
+449,"Second Class",Consumer,"United States",Auburn,"New York",13021,East,"Office Supplies",Storage,161.94,3,0.00,9.72,6.00,"No Discount",3155.17
+450,"Second Class",Consumer,"United States",Auburn,"New York",13021,East,"Office Supplies",Art,263.88,6,0.00,71.25,27.00,"No Discount",3155.17
+451,"Second Class",Consumer,"United States",Auburn,"New York",13021,East,"Office Supplies",Art,30.48,3,0.00,7.92,25.98,"No Discount",3155.17
+452,"Second Class",Consumer,"United States",Auburn,"New York",13021,East,"Office Supplies",Art,9.84,3,0.00,2.85,28.96,"No Discount",3155.17
+453,"Second Class",Consumer,"United States",Auburn,"New York",13021,East,Technology,Phones,35.12,4,0.00,9.13,26.00,"No Discount",3155.17
+454,"Standard Class",Corporate,"United States",Akron,Ohio,44312,East,Furniture,Tables,284.36,2,0.40,-75.83,-26.67,"Negative Impact",2729.99
+455,"Standard Class",Corporate,"United States",Akron,Ohio,44312,East,"Office Supplies",Storage,665.41,2,0.20,66.54,10.00,"Positive Impact",2729.99
+456,"Standard Class",Corporate,"United States",Norman,Oklahoma,73071,Central,Technology,Accessories,63.88,4,0.00,24.91,38.99,"No Discount",1351.33
+457,"Standard Class",Consumer,"United States",Concord,California,94521,West,Furniture,Chairs,129.57,2,0.20,-24.29,-18.75,"Negative Impact",10542.40
+458,"Standard Class",Consumer,"United States",Decatur,Illinois,62521,Central,Furniture,Chairs,747.56,3,0.30,-96.11,-12.86,"Negative Impact",6544.30
+459,"Standard Class",Consumer,"United States",Decatur,Illinois,62521,Central,"Office Supplies",Envelopes,8.93,2,0.20,3.35,37.51,"Positive Impact",6544.30
+460,"Standard Class",Consumer,"United States",Seattle,Washington,98115,West,"Office Supplies",Appliances,103.92,4,0.00,36.37,35.00,"No Discount",119540.74
+461,"Standard Class",Consumer,"United States",Seattle,Washington,98115,West,Technology,Accessories,899.91,9,0.00,377.96,42.00,"No Discount",119540.74
+462,"Standard Class",Consumer,"United States",Seattle,Washington,98115,West,"Office Supplies",Binders,51.31,3,0.20,18.60,36.25,"Positive Impact",119540.74
+463,"Standard Class","Home Office","United States",Phoenix,Arizona,85023,West,Furniture,Furnishings,23.56,5,0.20,7.07,30.01,"Positive Impact",11000.27
+464,"Standard Class","Home Office","United States",Phoenix,Arizona,85023,West,Furniture,Tables,1272.63,6,0.50,-814.48,-64.00,"Negative Impact",11000.27
+465,"Standard Class","Home Office","United States",Phoenix,Arizona,85023,West,"Office Supplies",Binders,28.49,5,0.70,-20.89,-73.32,"Negative Impact",11000.27
+466,"Standard Class","Home Office","United States",Phoenix,Arizona,85023,West,"Office Supplies",Supplies,185.38,2,0.20,-34.76,-18.75,"Negative Impact",11000.27
+467,"Standard Class","Home Office","United States",Phoenix,Arizona,85023,West,"Office Supplies",Appliances,78.27,2,0.20,5.87,7.50,"Positive Impact",11000.27
+468,"Standard Class","Home Office","United States","Park Ridge",Illinois,60068,Central,Furniture,Furnishings,254.74,7,0.60,-312.06,-122.50,"Negative Impact",685.00
+469,"Standard Class",Corporate,"United States",Amarillo,Texas,79109,Central,Furniture,Bookcases,205.33,2,0.32,-36.24,-17.65,"Negative Impact",3773.06
+470,"Second Class",Consumer,"United States",Chicago,Illinois,60610,Central,"Office Supplies",Binders,4.79,3,0.80,-7.90,-164.93,"Negative Impact",48539.59
+471,"Standard Class",Corporate,"United States",Lindenhurst,"New York",11757,East,"Office Supplies",Paper,55.48,1,0.00,26.63,48.00,"No Discount",55.48
+472,"Second Class",Consumer,"United States","San Francisco",California,94110,West,"Office Supplies",Storage,340.92,3,0.00,3.41,1.00,"No Discount",112669.09
+473,"Second Class",Consumer,"United States","San Francisco",California,94110,West,Furniture,Bookcases,222.67,2,0.15,10.48,4.71,"Positive Impact",112669.09
+474,"Second Class",Consumer,"United States","San Francisco",California,94110,West,Technology,Phones,703.97,4,0.20,88.00,12.50,"Positive Impact",112669.09
+475,"Second Class",Consumer,"United States","San Francisco",California,94110,West,"Office Supplies",Storage,92.52,6,0.00,24.98,27.00,"No Discount",112669.09
+476,"Second Class",Consumer,"United States","San Francisco",California,94110,West,"Office Supplies",Paper,62.65,7,0.00,28.82,46.00,"No Discount",112669.09
+477,"Second Class",Consumer,"United States","San Francisco",California,94110,West,"Office Supplies",Paper,94.85,5,0.00,45.53,48.00,"No Discount",112669.09
+478,"Standard Class",Corporate,"United States","Los Angeles",California,90008,West,Technology,Phones,95.76,6,0.20,7.18,7.50,"Positive Impact",175851.33
+479,"Standard Class",Consumer,"United States",Troy,"New York",12180,East,Furniture,Furnishings,40.20,3,0.00,19.30,48.01,"No Discount",4507.07
+480,"Standard Class",Corporate,"United States","New York City","New York",10024,East,"Office Supplies",Art,14.70,5,0.00,6.62,45.03,"No Discount",256368.12
+481,"Standard Class",Corporate,"United States","New York City","New York",10024,East,"Office Supplies",Storage,704.25,5,0.00,84.51,12.00,"No Discount",256368.12
+482,"Standard Class",Consumer,"United States","San Diego",California,92024,West,Technology,Accessories,9.09,3,0.00,1.91,21.01,"No Discount",47521.05
+483,"Standard Class",Consumer,"United States","New York City","New York",10024,East,"Office Supplies",Art,5.96,2,0.00,1.67,28.02,"No Discount",256368.12
+484,"Standard Class",Consumer,"United States","New York City","New York",10024,East,Technology,Accessories,159.98,2,0.00,57.59,36.00,"No Discount",256368.12
+485,"First Class","Home Office","United States","Los Angeles",California,90045,West,"Office Supplies",Labels,29.60,2,0.00,14.80,50.00,"No Discount",175851.33
+486,"First Class","Home Office","United States","Los Angeles",California,90045,West,Furniture,Bookcases,514.17,5,0.15,-30.25,-5.88,"Negative Impact",175851.33
+487,"First Class","Home Office","United States","Los Angeles",California,90045,West,Technology,Phones,279.96,5,0.20,17.50,6.25,"Positive Impact",175851.33
+488,"First Class",Consumer,"United States",Chicago,Illinois,60610,Central,Technology,Phones,2735.95,6,0.20,341.99,12.50,"Positive Impact",48539.59
+489,"Second Class","Home Office","United States",Huntsville,Texas,77340,Central,Technology,Phones,7.99,1,0.20,0.60,7.51,"Positive Impact",9194.98
+490,"Second Class","Home Office","United States",Huntsville,Texas,77340,Central,Technology,Accessories,63.98,2,0.20,10.40,16.26,"Positive Impact",9194.98
+491,"Second Class","Home Office","United States",Huntsville,Texas,77340,Central,"Office Supplies",Art,70.37,2,0.20,6.16,8.75,"Positive Impact",9194.98
+492,"Standard Class",Consumer,"United States",Rochester,"New York",14609,East,"Office Supplies",Storage,449.15,5,0.00,8.98,2.00,"No Discount",7974.53
+493,"Standard Class",Consumer,"United States",Rochester,"New York",14609,East,"Office Supplies",Envelopes,11.07,3,0.00,5.09,45.98,"No Discount",7974.53
+494,"Standard Class",Consumer,"United States",Seattle,Washington,98115,West,Technology,Accessories,93.98,2,0.00,13.16,14.00,"No Discount",119540.74
+495,"Second Class",Consumer,"United States",Memphis,Tennessee,38109,South,Furniture,Tables,189.88,3,0.40,-94.94,-50.00,"Negative Impact",5942.32
+496,"Standard Class",Consumer,"United States",Fayetteville,Arkansas,72701,South,"Office Supplies",Envelopes,105.42,2,0.00,51.66,49.00,"No Discount",6925.92
+497,"Standard Class",Consumer,"United States","Costa Mesa",California,92627,West,"Office Supplies",Binders,119.62,8,0.20,40.37,33.75,"Positive Impact",1497.68
+498,"Standard Class",Consumer,"United States","Costa Mesa",California,92627,West,Furniture,Furnishings,255.76,4,0.00,81.84,32.00,"No Discount",1497.68
+499,"Standard Class",Consumer,"United States","Costa Mesa",California,92627,West,Furniture,Chairs,241.57,2,0.20,18.12,7.50,"Positive Impact",1497.68
+500,"Standard Class",Consumer,"United States","Costa Mesa",California,92627,West,Furniture,Furnishings,69.30,9,0.00,22.87,33.00,"No Discount",1497.68
+501,"Standard Class",Corporate,"United States",Parker,Colorado,80134,West,"Office Supplies",Binders,22.62,2,0.70,-15.08,-66.67,"Negative Impact",1067.95
+502,"Standard Class",Corporate,"United States",Parker,Colorado,80134,West,"Office Supplies",Binders,14.95,2,0.70,-11.96,-80.00,"Negative Impact",1067.95
+503,"Standard Class",Corporate,"United States",Parker,Colorado,80134,West,Furniture,Chairs,801.57,2,0.20,50.10,6.25,"Positive Impact",1067.95
+504,"Standard Class",Corporate,"United States",Parker,Colorado,80134,West,"Office Supplies",Binders,2.38,3,0.70,-1.90,-79.83,"Negative Impact",1067.95
+505,"Standard Class",Corporate,"United States",Parker,Colorado,80134,West,"Office Supplies",Paper,32.79,1,0.20,11.89,36.26,"Positive Impact",1067.95
+506,"Second Class",Corporate,"United States","New York City","New York",10024,East,"Office Supplies",Binders,15.92,5,0.20,5.37,33.73,"Positive Impact",256368.12
+507,"Standard Class",Consumer,"United States",Atlanta,Georgia,30318,South,"Office Supplies",Art,2.74,1,0.00,0.74,27.01,"No Discount",17197.84
+508,"Standard Class",Consumer,"United States",Atlanta,Georgia,30318,South,"Office Supplies",Art,8.34,3,0.00,2.17,26.02,"No Discount",17197.84
+509,"Standard Class",Consumer,"United States",Atlanta,Georgia,30318,South,"Office Supplies",Storage,46.74,3,0.00,11.69,25.01,"No Discount",17197.84
+510,"Standard Class",Consumer,"United States",Atlanta,Georgia,30318,South,"Office Supplies",Binders,6354.95,5,0.00,3177.48,50.00,"No Discount",17197.84
+511,"First Class",Consumer,"United States",Gladstone,Missouri,64118,Central,Furniture,Furnishings,126.30,3,0.00,40.42,32.00,"No Discount",164.34
+512,"First Class",Consumer,"United States",Gladstone,Missouri,64118,Central,Technology,Accessories,38.04,2,0.00,12.17,31.99,"No Discount",164.34
+513,"First Class",Consumer,"United States",Newark,Ohio,43055,East,"Office Supplies",Art,7.15,3,0.20,0.72,10.07,"Positive Impact",28576.15
+514,"Standard Class",Consumer,"United States","Los Angeles",California,90049,West,"Office Supplies",Art,6.63,3,0.00,1.79,27.00,"No Discount",175851.33
+515,"Standard Class",Consumer,"United States","Los Angeles",California,90049,West,"Office Supplies",Art,5.88,2,0.00,1.71,29.08,"No Discount",175851.33
+516,"Standard Class","Home Office","United States","Great Falls",Montana,59405,West,Technology,Copiers,2999.95,5,0.00,1379.98,46.00,"No Discount",4605.58
+517,"Standard Class","Home Office","United States","Great Falls",Montana,59405,West,"Office Supplies",Storage,51.45,3,0.00,13.89,27.00,"No Discount",4605.58
+518,"Standard Class","Home Office","United States","Great Falls",Montana,59405,West,"Office Supplies",Paper,11.96,2,0.00,5.38,44.98,"No Discount",4605.58
+519,"Standard Class","Home Office","United States","Great Falls",Montana,59405,West,"Office Supplies",Storage,1126.02,3,0.00,56.30,5.00,"No Discount",4605.58
+520,"Standard Class",Consumer,"United States",Houston,Texas,77041,Central,Technology,Accessories,18.39,1,0.20,5.29,28.77,"Positive Impact",64504.71
+521,"Standard Class",Consumer,"United States",Houston,Texas,77041,Central,"Office Supplies",Storage,129.57,2,0.20,-25.91,-20.00,"Negative Impact",64504.71
+522,"Standard Class",Consumer,"United States",Houston,Texas,77041,Central,"Office Supplies",Binders,14.11,9,0.80,-21.17,-150.04,"Negative Impact",64504.71
+523,"First Class",Corporate,"United States",Detroit,Michigan,48234,Central,Furniture,Tables,210.98,2,0.00,21.10,10.00,"No Discount",42446.94
+524,"First Class",Consumer,"United States","Los Angeles",California,90032,West,Technology,Phones,55.18,3,0.20,-12.41,-22.49,"Negative Impact",175851.33
+525,"First Class",Consumer,"United States","Los Angeles",California,90032,West,Technology,Accessories,66.26,2,0.00,27.17,41.01,"No Discount",175851.33
+526,"Standard Class",Consumer,"United States",Lawrence,Massachusetts,1841,East,"Office Supplies",Fasteners,22.20,5,0.00,10.43,46.98,"No Discount",7654.19
+527,"Standard Class","Home Office","United States",Lakeland,Florida,33801,South,Furniture,Chairs,683.95,3,0.20,42.75,6.25,"Positive Impact",5606.88
+528,"Standard Class","Home Office","United States",Lakeland,Florida,33801,South,Furniture,Furnishings,45.70,3,0.20,5.14,11.25,"Positive Impact",5606.88
+529,"Standard Class",Consumer,"United States",Philadelphia,Pennsylvania,19134,East,"Office Supplies",Storage,36.34,3,0.20,-7.27,-20.01,"Negative Impact",109077.09
+530,"Standard Class",Consumer,"United States",Philadelphia,Pennsylvania,19134,East,"Office Supplies",Supplies,666.25,1,0.20,-149.91,-22.50,"Negative Impact",109077.09
+531,"Standard Class",Consumer,"United States",Philadelphia,Pennsylvania,19134,East,"Office Supplies",Envelopes,52.51,6,0.20,19.69,37.50,"Positive Impact",109077.09
+532,"Second Class",Corporate,"United States","Los Angeles",California,90036,West,Furniture,Chairs,190.72,1,0.20,11.92,6.25,"Positive Impact",175851.33
+533,"Standard Class",Consumer,"United States","Los Angeles",California,90032,West,Furniture,Furnishings,47.94,3,0.00,2.40,5.01,"No Discount",175851.33
+534,"Second Class",Consumer,"United States",Montgomery,Alabama,36116,South,Technology,Phones,979.95,5,0.00,274.39,28.00,"No Discount",3722.73
+535,"Second Class",Consumer,"United States",Montgomery,Alabama,36116,South,"Office Supplies",Binders,22.75,5,0.00,11.38,50.02,"No Discount",3722.73
+536,"Standard Class",Consumer,"United States",Mesa,Arizona,85204,West,"Office Supplies",Storage,16.77,2,0.20,1.47,8.77,"Positive Impact",4037.73
+537,"Second Class",Consumer,"United States",Chicago,Illinois,60653,Central,"Office Supplies",Binders,42.62,7,0.80,-68.19,-160.00,"Negative Impact",48539.59
+538,"Standard Class","Home Office","United States","New York City","New York",10009,East,"Office Supplies",Binders,10.75,4,0.20,3.36,31.26,"Positive Impact",256368.12
+539,"Standard Class",Consumer,"United States",Henderson,Kentucky,42420,South,"Office Supplies",Appliances,152.94,3,0.00,41.29,27.00,"No Discount",17549.07
+540,"Standard Class",Consumer,"United States",Henderson,Kentucky,42420,South,Furniture,Chairs,283.92,4,0.00,70.98,25.00,"No Discount",17549.07
+541,"First Class",Consumer,"United States","Green Bay",Wisconsin,54302,Central,Technology,Accessories,468.90,6,0.00,206.32,44.00,"No Discount",527.32
+542,"First Class",Corporate,"United States",Tucson,Arizona,85705,West,Technology,Phones,380.86,8,0.20,38.09,10.00,"Positive Impact",6313.00
+543,"Standard Class",Consumer,"United States",Springfield,Ohio,45503,East,"Office Supplies",Storage,646.78,9,0.20,-145.52,-22.50,"Negative Impact",43054.35
+544,"Standard Class",Consumer,"United States","Fort Worth",Texas,76106,Central,Technology,Accessories,58.11,2,0.20,7.26,12.49,"Positive Impact",6602.69
+545,"Standard Class",Consumer,"United States","Fort Worth",Texas,76106,Central,Technology,Phones,100.79,1,0.20,6.30,6.25,"Positive Impact",6602.69
+546,"Standard Class",Consumer,"United States","Fort Worth",Texas,76106,Central,Furniture,Furnishings,66.11,4,0.60,-84.29,-127.50,"Negative Impact",6602.69
+547,"First Class","Home Office","United States","New York City","New York",10035,East,"Office Supplies",Binders,41.28,6,0.20,13.93,33.75,"Positive Impact",256368.12
+548,"First Class","Home Office","United States","New York City","New York",10035,East,"Office Supplies",Paper,13.36,2,0.00,6.41,47.98,"No Discount",256368.12
+549,"Second Class",Corporate,"United States",Chicago,Illinois,60653,Central,"Office Supplies",Storage,250.27,9,0.20,15.64,6.25,"Positive Impact",48539.59
+550,"Second Class",Corporate,"United States",Chicago,Illinois,60653,Central,"Office Supplies",Binders,11.36,3,0.80,-17.05,-150.09,"Negative Impact",48539.59
+551,"Second Class",Corporate,"United States",Chicago,Illinois,60653,Central,"Office Supplies",Supplies,8.72,5,0.20,-1.74,-19.95,"Negative Impact",48539.59
+552,"Second Class",Consumer,"United States","San Francisco",California,94110,West,Furniture,Chairs,1121.57,2,0.20,0.00,0.00,"Negative Impact",112669.09
+553,"First Class",Consumer,"United States",Jacksonville,Florida,32216,South,Furniture,Furnishings,34.50,1,0.20,6.04,17.51,"Positive Impact",44713.18
+554,"Standard Class",Consumer,"United States",Houston,Texas,77070,Central,"Office Supplies",Fasteners,10.82,3,0.20,2.57,23.75,"Positive Impact",64504.71
+555,"Second Class",Corporate,"United States",Anaheim,California,92804,West,"Office Supplies",Storage,1295.78,2,0.00,310.99,24.00,"No Discount",7986.88
+556,"Second Class",Consumer,"United States",Wilmington,"North Carolina",28403,South,"Office Supplies",Art,19.46,4,0.20,3.40,17.47,"Positive Impact",7297.07
+557,"Standard Class",Consumer,"United States","Los Angeles",California,90045,West,"Office Supplies",Labels,20.70,2,0.00,9.94,48.02,"No Discount",175851.33
+558,"Standard Class",Consumer,"United States","Los Angeles",California,90045,West,Furniture,Tables,1335.68,4,0.20,-217.05,-16.25,"Negative Impact",175851.33
+559,"Standard Class",Consumer,"United States","Los Angeles",California,90045,West,"Office Supplies",Paper,32.40,5,0.00,15.55,47.99,"No Discount",175851.33
+560,"Second Class",Consumer,"United States","San Francisco",California,94110,West,Furniture,Furnishings,42.60,3,0.00,16.61,38.99,"No Discount",112669.09
+561,"Second Class",Consumer,"United States","San Francisco",California,94110,West,"Office Supplies",Binders,84.06,7,0.20,27.32,32.50,"Positive Impact",112669.09
+562,"Second Class",Consumer,"United States",Tampa,Florida,33614,South,"Office Supplies",Appliances,13.00,5,0.20,1.30,10.00,"Positive Impact",5196.10
+563,"Second Class",Consumer,"United States",Tampa,Florida,33614,South,Furniture,Furnishings,13.13,3,0.20,3.77,28.71,"Positive Impact",5196.10
+564,"First Class",Consumer,"United States",Seattle,Washington,98105,West,"Office Supplies",Fasteners,3.96,2,0.00,0.00,0.00,"No Discount",119540.74
+565,"First Class",Consumer,"United States",Seattle,Washington,98105,West,"Office Supplies",Labels,2.61,1,0.00,1.20,45.98,"No Discount",119540.74
+566,"First Class",Consumer,"United States","Los Angeles",California,90008,West,Technology,Phones,374.38,3,0.20,46.80,12.50,"Positive Impact",175851.33
+567,"Standard Class",Corporate,"United States",Seattle,Washington,98105,West,"Office Supplies",Paper,91.84,8,0.00,45.00,49.00,"No Discount",119540.74
+568,"Standard Class",Corporate,"United States",Seattle,Washington,98105,West,"Office Supplies",Binders,81.09,7,0.20,27.37,33.75,"Positive Impact",119540.74
+569,"Standard Class",Corporate,"United States",Seattle,Washington,98105,West,"Office Supplies",Paper,19.44,3,0.00,9.33,47.99,"No Discount",119540.74
+570,"Standard Class",Corporate,"United States",Seattle,Washington,98105,West,Furniture,Chairs,451.15,3,0.20,0.00,0.00,"Negative Impact",119540.74
+571,"Standard Class",Consumer,"United States","New York City","New York",10024,East,"Office Supplies",Labels,72.45,7,0.00,34.78,48.01,"No Discount",256368.12
+572,"Standard Class",Consumer,"United States","New York City","New York",10024,East,"Office Supplies",Fasteners,13.96,4,0.00,6.42,45.99,"No Discount",256368.12
+573,"Standard Class",Consumer,"United States","New York City","New York",10024,East,"Office Supplies",Binders,33.26,7,0.20,11.23,33.76,"Positive Impact",256368.12
+574,"Standard Class",Consumer,"United States","New York City","New York",10024,East,Technology,Phones,14.85,3,0.00,4.01,27.00,"No Discount",256368.12
+575,"Standard Class",Consumer,"United States",Marysville,Washington,98270,West,"Office Supplies",Art,8.82,3,0.00,2.38,26.98,"No Discount",102.18
+576,"Second Class",Consumer,"United States","Long Beach",California,90805,West,"Office Supplies",Paper,160.72,14,0.00,78.75,49.00,"No Discount",13455.02
+577,"Second Class",Consumer,"United States","Long Beach",California,90805,West,"Office Supplies",Paper,19.92,4,0.00,9.76,49.00,"No Discount",13455.02
+578,"Second Class",Consumer,"United States","Long Beach",California,90805,West,"Office Supplies",Supplies,7.30,2,0.00,2.19,30.00,"No Discount",13455.02
+579,"Standard Class",Consumer,"United States",Chicago,Illinois,60610,Central,"Office Supplies",Storage,69.71,2,0.20,8.71,12.49,"Positive Impact",48539.59
+580,"Standard Class",Consumer,"United States",Chicago,Illinois,60610,Central,Furniture,Furnishings,8.79,1,0.60,-5.71,-64.96,"Negative Impact",48539.59
+581,"Standard Class",Consumer,"United States","Los Angeles",California,90004,West,"Office Supplies",Supplies,51.52,4,0.00,1.55,3.01,"No Discount",175851.33
+582,"Standard Class",Consumer,"United States",Denver,Colorado,80219,West,Technology,Phones,470.38,3,0.20,52.92,11.25,"Positive Impact",12198.78
+583,"Standard Class",Consumer,"United States",Denver,Colorado,80219,West,Technology,Phones,105.58,2,0.20,9.24,8.75,"Positive Impact",12198.78
+584,"Standard Class",Consumer,"United States",Denver,Colorado,80219,West,"Office Supplies",Appliances,31.15,3,0.20,3.50,11.24,"Positive Impact",12198.78
+585,"Standard Class",Consumer,"United States",Denver,Colorado,80219,West,"Office Supplies",Binders,6.78,7,0.70,-4.75,-70.06,"Negative Impact",12198.78
+586,"Standard Class",Consumer,"United States",Denver,Colorado,80219,West,Technology,Phones,406.37,4,0.20,30.48,7.50,"Positive Impact",12198.78
+587,"Standard Class",Consumer,"United States",Richmond,Kentucky,40475,South,Furniture,Chairs,70.98,1,0.00,4.97,7.00,"No Discount",18137.93
+588,"Standard Class",Consumer,"United States",Richmond,Kentucky,40475,South,"Office Supplies",Labels,294.93,3,0.00,144.52,49.00,"No Discount",18137.93
+589,"Standard Class",Consumer,"United States",Salem,Oregon,97301,West,Technology,Phones,84.78,2,0.20,-20.14,-23.76,"Negative Impact",3444.26
+590,"Standard Class",Consumer,"United States",Salem,Oregon,97301,West,"Office Supplies",Paper,20.74,4,0.20,7.26,35.00,"Positive Impact",3444.26
+591,"Standard Class",Consumer,"United States",Salem,Oregon,97301,West,"Office Supplies",Binders,16.82,3,0.70,-12.90,-76.69,"Negative Impact",3444.26
+592,"Standard Class",Consumer,"United States",Salem,Oregon,97301,West,"Office Supplies",Paper,10.37,2,0.20,3.63,35.00,"Positive Impact",3444.26
+593,"Standard Class",Consumer,"United States",Laredo,Texas,78041,Central,"Office Supplies",Art,9.34,2,0.20,1.17,12.53,"Positive Impact",1024.34
+594,"Standard Class",Consumer,"United States",Laredo,Texas,78041,Central,Technology,Accessories,31.20,3,0.20,9.75,31.25,"Positive Impact",1024.34
+595,"Standard Class",Consumer,"United States","San Diego",California,92024,West,"Office Supplies",Appliances,76.12,2,0.00,22.07,28.99,"No Discount",47521.05
+596,"Standard Class",Consumer,"United States","San Diego",California,92024,West,Technology,Copiers,1199.98,3,0.20,434.99,36.25,"Positive Impact",47521.05
+597,"Standard Class",Consumer,"United States","San Diego",California,92024,West,Technology,Phones,445.96,5,0.20,55.75,12.50,"Positive Impact",47521.05
+598,"Standard Class",Consumer,"United States","San Diego",California,92024,West,Furniture,Furnishings,327.76,8,0.00,91.77,28.00,"No Discount",47521.05
+599,"First Class",Consumer,"United States",Philadelphia,Pennsylvania,19134,East,"Office Supplies",Supplies,11.63,2,0.20,1.02,8.77,"Positive Impact",109077.09
+600,"Standard Class",Consumer,"United States",Philadelphia,Pennsylvania,19120,East,Technology,Phones,143.98,3,0.40,-28.80,-20.00,"Negative Impact",109077.09
+601,"Standard Class",Consumer,"United States",Philadelphia,Pennsylvania,19120,East,Technology,Phones,494.38,4,0.40,-115.35,-23.33,"Negative Impact",109077.09
+602,"Standard Class",Consumer,"United States",Philadelphia,Pennsylvania,19120,East,"Office Supplies",Supplies,5.84,2,0.20,0.73,12.50,"Positive Impact",109077.09
+603,"Standard Class",Consumer,"United States",Tampa,Florida,33614,South,"Office Supplies",Storage,142.78,1,0.20,17.85,12.50,"Positive Impact",5196.10
+604,"Standard Class",Consumer,"United States",Tampa,Florida,33614,South,Furniture,Furnishings,45.70,3,0.20,5.14,11.25,"Positive Impact",5196.10
+605,"Standard Class",Consumer,"United States",Tampa,Florida,33614,South,"Office Supplies",Binders,7.22,3,0.70,-5.53,-76.59,"Negative Impact",5196.10
+606,"Standard Class",Consumer,"United States",Tampa,Florida,33614,South,"Office Supplies",Binders,43.19,4,0.70,-31.67,-73.33,"Negative Impact",5196.10
+607,"Standard Class",Consumer,"United States",Tampa,Florida,33614,South,"Office Supplies",Paper,131.90,3,0.20,47.82,36.25,"Positive Impact",5196.10
+608,"Standard Class",Consumer,"United States",Philadelphia,Pennsylvania,19134,East,"Office Supplies",Binders,3.28,2,0.70,-2.63,-80.18,"Negative Impact",109077.09
+609,"Standard Class",Consumer,"United States",Philadelphia,Pennsylvania,19134,East,"Office Supplies",Art,21.17,9,0.20,2.38,11.24,"Positive Impact",109077.09
+610,"Standard Class",Consumer,"United States",Philadelphia,Pennsylvania,19134,East,Technology,Phones,55.19,2,0.40,-10.12,-18.34,"Negative Impact",109077.09
+611,"First Class",Corporate,"United States",Dallas,Texas,75217,Central,Technology,Phones,369.58,3,0.20,41.58,11.25,"Positive Impact",20131.90
+612,"First Class",Corporate,"United States",Dallas,Texas,75217,Central,"Office Supplies",Labels,15.71,4,0.20,5.70,36.28,"Positive Impact",20131.90
+613,"Second Class",Corporate,"United States",Philadelphia,Pennsylvania,19143,East,"Office Supplies",Paper,8.45,2,0.20,2.64,31.24,"Positive Impact",109077.09
+614,"Second Class",Corporate,"United States",Philadelphia,Pennsylvania,19143,East,Technology,Phones,728.95,9,0.40,-157.94,-21.67,"Negative Impact",109077.09
+615,"Second Class",Consumer,"United States","Grove City",Ohio,43123,East,Technology,Phones,119.94,10,0.40,15.99,13.33,"Positive Impact",123.59
+616,"Second Class",Consumer,"United States","Grove City",Ohio,43123,East,"Office Supplies",Binders,3.65,2,0.70,-2.80,-76.71,"Negative Impact",123.59
+617,"Second Class",Corporate,"United States","New York City","New York",10011,East,Furniture,Furnishings,40.48,2,0.00,15.79,39.01,"No Discount",256368.12
+618,"Second Class",Corporate,"United States","New York City","New York",10011,East,Furniture,Furnishings,9.94,2,0.00,3.08,30.99,"No Discount",256368.12
+619,"Second Class",Corporate,"United States","New York City","New York",10011,East,"Office Supplies",Binders,107.42,9,0.20,33.57,31.25,"Positive Impact",256368.12
+620,"Second Class",Corporate,"United States","New York City","New York",10011,East,Technology,Phones,37.91,1,0.00,10.99,28.99,"No Discount",256368.12
+621,"Second Class",Corporate,"United States","New York City","New York",10011,East,Furniture,Furnishings,88.02,3,0.00,27.29,31.00,"No Discount",256368.12
+622,"Standard Class",Consumer,"United States",Chicago,Illinois,60610,Central,"Office Supplies",Binders,8.69,5,0.80,-14.77,-169.97,"Negative Impact",48539.59
+623,"Standard Class",Corporate,"United States",Dearborn,Michigan,48126,Central,Furniture,Chairs,301.96,2,0.00,87.57,29.00,"No Discount",1603.31
+624,"Standard Class",Corporate,"United States",Dearborn,Michigan,48126,Central,"Office Supplies",Appliances,555.21,5,0.10,178.90,32.22,"Positive Impact",1603.31
+625,"Standard Class",Corporate,"United States",Dearborn,Michigan,48126,Central,"Office Supplies",Storage,523.48,4,0.00,130.87,25.00,"No Discount",1603.31
+626,"Standard Class",Corporate,"United States",Dearborn,Michigan,48126,Central,"Office Supplies",Art,161.82,9,0.00,46.93,29.00,"No Discount",1603.31
+627,"Standard Class","Home Office","United States","New York City","New York",10009,East,Furniture,Furnishings,35.56,7,0.00,12.09,34.00,"No Discount",256368.12
+628,"Standard Class",Consumer,"United States",Seattle,Washington,98115,West,"Office Supplies",Appliances,97.16,2,0.00,28.18,29.00,"No Discount",119540.74
+629,"Standard Class",Consumer,"United States","San Francisco",California,94122,West,"Office Supplies",Binders,15.24,5,0.20,5.14,33.73,"Positive Impact",112669.09
+630,"Standard Class",Consumer,"United States","San Francisco",California,94122,West,"Office Supplies",Paper,13.23,3,0.00,6.09,46.03,"No Discount",112669.09
+631,"Second Class",Consumer,"United States",Aurora,Colorado,80013,West,"Office Supplies",Storage,243.38,3,0.20,-51.72,-21.25,"Negative Impact",11656.47
+632,"Second Class",Consumer,"United States",Aurora,Colorado,80013,West,Technology,Accessories,119.80,5,0.20,29.95,25.00,"Positive Impact",11656.47
+633,"Second Class",Consumer,"United States",Aurora,Colorado,80013,West,Technology,Phones,300.77,4,0.20,30.08,10.00,"Positive Impact",11656.47
+634,"Second Class",Consumer,"United States",Miami,Florida,33180,South,Technology,Accessories,17.88,3,0.20,2.46,13.76,"Positive Impact",8673.08
+635,"Second Class",Consumer,"United States",Miami,Florida,33180,South,"Office Supplies",Labels,235.94,3,0.20,85.53,36.25,"Positive Impact",8673.08
+636,"Second Class",Corporate,"United States","Warner Robins",Georgia,31088,South,Furniture,Chairs,392.94,3,0.00,43.22,11.00,"No Discount",434.80
+637,"Standard Class",Consumer,"United States",Aurora,Colorado,80013,West,"Office Supplies",Binders,18.88,3,0.70,-13.85,-73.36,"Negative Impact",11656.47
+638,"Standard Class",Consumer,"United States",Aurora,Colorado,80013,West,"Office Supplies",Appliances,122.33,3,0.20,12.23,10.00,"Positive Impact",11656.47
+639,"Standard Class","Home Office","United States",Vallejo,California,94591,West,Furniture,Furnishings,1049.20,5,0.00,272.79,26.00,"No Discount",1221.41
+640,"Standard Class","Home Office","United States",Vallejo,California,94591,West,"Office Supplies",Binders,15.42,4,0.20,5.01,32.49,"Positive Impact",1221.41
+641,"Standard Class",Corporate,"United States",Minneapolis,Minnesota,55407,Central,Furniture,Furnishings,18.84,3,0.00,6.03,32.01,"No Discount",16870.54
+642,"Second Class",Consumer,"United States","Mission Viejo",California,92691,West,"Office Supplies",Storage,330.40,2,0.00,85.90,26.00,"No Discount",775.99
+643,"Second Class",Consumer,"United States","Mission Viejo",California,92691,West,"Office Supplies",Labels,26.25,7,0.00,12.60,48.00,"No Discount",775.99
+644,"Standard Class",Consumer,"United States","Rochester Hills",Michigan,48307,Central,Technology,Accessories,132.52,4,0.00,54.33,41.00,"No Discount",132.52
+645,"Standard Class","Home Office","United States",Plainfield,"New Jersey",7060,East,"Office Supplies",Paper,6.48,1,0.00,3.18,49.07,"No Discount",4526.85
+646,"Standard Class","Home Office","United States",Columbus,Indiana,47201,Central,"Office Supplies",Appliances,209.30,2,0.00,56.51,27.00,"No Discount",38706.23
+647,"Standard Class",Corporate,"United States","Sierra Vista",Arizona,85635,West,"Office Supplies",Fasteners,31.56,5,0.20,9.86,31.24,"Positive Impact",76.07
+648,"Standard Class",Corporate,"United States","Sierra Vista",Arizona,85635,West,"Office Supplies",Appliances,30.14,2,0.20,3.01,9.99,"Positive Impact",76.07
+649,"Second Class",Corporate,"United States",Vancouver,Washington,98661,West,Furniture,Furnishings,14.80,4,0.00,6.07,41.01,"No Discount",686.84
+650,"Second Class",Corporate,"United States",Vancouver,Washington,98661,West,Technology,Phones,302.38,3,0.20,22.68,7.50,"Positive Impact",686.84
+651,"Second Class",Corporate,"United States",Vancouver,Washington,98661,West,Technology,Accessories,316.00,4,0.00,31.60,10.00,"No Discount",686.84
+652,"Standard Class","Home Office","United States","New York City","New York",10024,East,"Office Supplies",Paper,379.40,10,0.00,178.32,47.00,"No Discount",256368.12
+653,"Standard Class",Corporate,"United States","New York City","New York",10035,East,"Office Supplies",Paper,97.82,2,0.00,45.98,47.00,"No Discount",256368.12
+654,"Standard Class",Corporate,"United States","New York City","New York",10035,East,Technology,Accessories,103.12,8,0.00,10.31,10.00,"No Discount",256368.12
+655,"Standard Class",Consumer,"United States",Columbus,Ohio,43229,East,"Office Supplies",Appliances,113.55,2,0.20,8.52,7.50,"Positive Impact",38706.23
+656,"Standard Class",Consumer,"United States",Columbus,Ohio,43229,East,"Office Supplies",Binders,3.32,2,0.70,-2.65,-79.82,"Negative Impact",38706.23
+657,"Standard Class",Consumer,"United States",Columbus,Ohio,43229,East,"Office Supplies",Envelopes,134.29,2,0.20,45.32,33.75,"Positive Impact",38706.23
+658,"Same Day","Home Office","United States",Aurora,Illinois,60505,Central,Furniture,Chairs,701.37,2,0.30,-50.10,-7.14,"Negative Impact",11656.47
+659,"Same Day","Home Office","United States",Aurora,Illinois,60505,Central,"Office Supplies",Binders,2.31,2,0.80,-3.46,-149.78,"Negative Impact",11656.47
+660,"Standard Class",Consumer,"United States",Arlington,Texas,76017,Central,"Office Supplies",Storage,999.43,7,0.20,124.93,12.50,"Positive Impact",20214.53
+661,"Standard Class",Consumer,"United States",Arlington,Texas,76017,Central,"Office Supplies",Storage,724.08,14,0.20,-135.77,-18.75,"Negative Impact",20214.53
+662,"Standard Class",Consumer,"United States",Arlington,Texas,76017,Central,Furniture,Tables,918.79,5,0.30,-118.13,-12.86,"Negative Impact",20214.53
+663,"Standard Class",Consumer,"United States",Arlington,Texas,76017,Central,"Office Supplies",Binders,2.72,3,0.80,-4.22,-155.15,"Negative Impact",20214.53
+664,"Standard Class",Corporate,"United States","New York City","New York",10011,East,"Office Supplies",Storage,459.95,5,0.00,18.40,4.00,"No Discount",256368.12
+665,"Same Day",Consumer,"United States",Louisville,Kentucky,40214,South,"Office Supplies",Fasteners,10.74,3,0.00,5.26,48.98,"No Discount",12345.80
+666,"Second Class",Corporate,"United States",Dallas,Texas,75081,Central,"Office Supplies",Supplies,23.76,3,0.20,2.08,8.75,"Positive Impact",20131.90
+667,"Second Class",Corporate,"United States",Dallas,Texas,75081,Central,"Office Supplies",Paper,85.06,3,0.20,28.71,33.75,"Positive Impact",20131.90
+668,"Second Class",Corporate,"United States",Dallas,Texas,75081,Central,Technology,Phones,381.58,3,0.20,28.62,7.50,"Positive Impact",20131.90
+669,"First Class",Consumer,"United States",Cleveland,Ohio,44105,East,Furniture,Furnishings,30.36,5,0.20,8.73,28.75,"Positive Impact",6346.21
+670,"Standard Class","Home Office","United States",Chicago,Illinois,60653,Central,Furniture,Furnishings,23.98,3,0.60,-14.39,-60.01,"Negative Impact",48539.59
+671,"Standard Class","Home Office","United States",Chicago,Illinois,60653,Central,Furniture,Tables,108.93,1,0.50,-71.89,-66.00,"Negative Impact",48539.59
+672,"Standard Class","Home Office","United States",Chicago,Illinois,60653,Central,"Office Supplies",Paper,36.35,8,0.20,11.36,31.25,"Positive Impact",48539.59
+673,"Standard Class",Consumer,"United States",Quincy,Illinois,62301,Central,"Office Supplies",Art,19.56,5,0.20,1.71,8.74,"Positive Impact",1276.46
+674,"First Class",Consumer,"United States",Columbus,Indiana,47201,Central,"Office Supplies",Appliances,61.44,3,0.00,16.59,27.00,"No Discount",38706.23
+675,"First Class",Consumer,"United States",Columbus,Indiana,47201,Central,"Office Supplies",Paper,38.90,5,0.00,17.51,45.01,"No Discount",38706.23
+676,"First Class",Consumer,"United States",Columbus,Indiana,47201,Central,Technology,Accessories,99.39,3,0.00,40.75,41.00,"No Discount",38706.23
+677,"Standard Class",Consumer,"United States",Tyler,Texas,75701,Central,"Office Supplies",Appliances,2.69,3,0.80,-7.39,-274.72,"Negative Impact",347.20
+678,"Standard Class",Consumer,"United States",Tyler,Texas,75701,Central,Technology,Accessories,27.82,3,0.20,4.52,16.25,"Positive Impact",347.20
+679,"Standard Class",Consumer,"United States",Tyler,Texas,75701,Central,Furniture,Furnishings,82.52,3,0.60,-41.26,-50.00,"Negative Impact",347.20
+680,"Standard Class",Consumer,"United States",Tyler,Texas,75701,Central,"Office Supplies",Binders,182.99,3,0.80,-320.24,-175.00,"Negative Impact",347.20
+681,"Standard Class",Consumer,"United States","New York City","New York",10024,East,"Office Supplies",Binders,14.35,3,0.20,4.66,32.47,"Positive Impact",256368.12
+682,"Standard Class",Consumer,"United States","New York City","New York",10024,East,"Office Supplies",Storage,64.96,2,0.00,2.60,4.00,"No Discount",256368.12
+683,"Standard Class",Consumer,"United States","New York City","New York",10024,East,"Office Supplies",Storage,68.60,4,0.00,18.52,27.00,"No Discount",256368.12
+684,"Same Day",Corporate,"United States",Burlington,"North Carolina",27217,South,Technology,Machines,7999.98,4,0.50,-3839.99,-48.00,"Negative Impact",21668.08
+685,"Same Day",Corporate,"United States",Burlington,"North Carolina",27217,South,"Office Supplies",Appliances,167.44,2,0.20,14.65,8.75,"Positive Impact",21668.08
+686,"First Class",Consumer,"United States",Jackson,Mississippi,39212,South,Technology,Accessories,479.97,3,0.00,163.19,34.00,"No Discount",24963.85
+687,"First Class",Consumer,"United States",Jackson,Mississippi,39212,South,"Office Supplies",Labels,14.62,2,0.00,6.87,46.99,"No Discount",24963.85
+688,"First Class",Consumer,"United States",Jackson,Mississippi,39212,South,"Office Supplies",Paper,19.44,3,0.00,9.33,47.99,"No Discount",24963.85
+689,"Standard Class",Consumer,"United States","New York City","New York",10035,East,Furniture,Bookcases,191.98,2,0.20,4.80,2.50,"Positive Impact",256368.12
+690,"Second Class",Consumer,"United States",Waynesboro,Virginia,22980,South,Furniture,Furnishings,104.01,1,0.00,14.56,14.00,"No Discount",3058.77
+691,"Second Class",Consumer,"United States",Waynesboro,Virginia,22980,South,Technology,Phones,284.82,1,0.00,74.05,26.00,"No Discount",3058.77
+692,"Second Class",Consumer,"United States",Waynesboro,Virginia,22980,South,"Office Supplies",Storage,36.84,3,0.00,10.32,28.01,"No Discount",3058.77
+693,"Standard Class",Consumer,"United States","Los Angeles",California,90036,West,Technology,Accessories,166.24,1,0.00,24.94,15.00,"No Discount",175851.33
+694,"Standard Class",Consumer,"United States","Los Angeles",California,90036,West,"Office Supplies",Paper,33.40,5,0.00,16.03,47.99,"No Discount",175851.33
+695,"First Class","Home Office","United States",Chester,Pennsylvania,19013,East,"Office Supplies",Art,198.27,8,0.20,17.35,8.75,"Positive Impact",1968.50
+696,"First Class","Home Office","United States",Chester,Pennsylvania,19013,East,"Office Supplies",Labels,47.36,4,0.20,17.76,37.50,"Positive Impact",1968.50
+697,"First Class","Home Office","United States",Chester,Pennsylvania,19013,East,"Office Supplies",Envelopes,200.98,7,0.20,62.81,31.25,"Positive Impact",1968.50
+698,"First Class","Home Office","United States",Chester,Pennsylvania,19013,East,"Office Supplies",Labels,97.70,4,0.20,31.75,32.50,"Positive Impact",1968.50
+699,"First Class","Home Office","United States",Chester,Pennsylvania,19013,East,"Office Supplies",Art,2.70,1,0.20,0.81,30.00,"Positive Impact",1968.50
+700,"First Class","Home Office","United States",Chester,Pennsylvania,19013,East,"Office Supplies",Binders,18.59,2,0.70,-13.63,-73.32,"Negative Impact",1968.50
+701,"First Class","Home Office","United States",Chester,Pennsylvania,19013,East,"Office Supplies",Binders,4.90,3,0.70,-3.43,-70.00,"Negative Impact",1968.50
+702,"Standard Class",Corporate,"United States",Cleveland,Ohio,44105,East,Furniture,Furnishings,15.07,3,0.20,4.14,27.47,"Positive Impact",6346.21
+703,"Second Class",Corporate,"United States",Seattle,Washington,98103,West,Furniture,Furnishings,209.88,3,0.00,35.68,17.00,"No Discount",119540.74
+704,"Standard Class",Consumer,"United States","Long Beach",California,90805,West,Furniture,Tables,369.91,3,0.20,-13.87,-3.75,"Negative Impact",13455.02
+705,"Standard Class",Corporate,"United States",Cary,"North Carolina",27511,South,"Office Supplies",Paper,10.37,2,0.20,3.63,35.00,"Positive Impact",505.22
+706,"Standard Class",Corporate,"United States",Cary,"North Carolina",27511,South,"Office Supplies",Appliances,166.84,5,0.20,18.77,11.25,"Positive Impact",505.22
+707,"Standard Class",Corporate,"United States",Cary,"North Carolina",27511,South,Technology,Accessories,15.22,1,0.20,2.28,14.98,"Positive Impact",505.22
+708,"First Class",Consumer,"United States","New York City","New York",10035,East,Technology,Accessories,119.96,4,0.00,52.78,44.00,"No Discount",256368.12
+709,"First Class",Consumer,"United States","New York City","New York",10035,East,Furniture,Bookcases,883.92,5,0.20,-110.49,-12.50,"Negative Impact",256368.12
+710,"First Class",Consumer,"United States","New York City","New York",10035,East,"Office Supplies",Binders,46.72,8,0.20,15.77,33.75,"Positive Impact",256368.12
+711,"First Class","Home Office","United States","New York City","New York",10035,East,"Office Supplies",Paper,55.48,1,0.00,26.63,48.00,"No Discount",256368.12
+712,"Standard Class",Consumer,"United States","Palm Coast",Florida,32137,South,"Office Supplies",Envelopes,24.45,4,0.20,8.86,36.24,"Positive Impact",274.43
+713,"Standard Class",Corporate,"United States","Mount Vernon","New York",10550,East,"Office Supplies",Appliances,281.34,6,0.00,109.72,39.00,"No Discount",2119.63
+714,"Standard Class",Corporate,"United States","Mount Vernon","New York",10550,East,Technology,Phones,307.98,2,0.00,89.31,29.00,"No Discount",2119.63
+715,"Standard Class",Corporate,"United States","Mount Vernon","New York",10550,East,Technology,Accessories,299.97,3,0.00,113.99,38.00,"No Discount",2119.63
+716,"Second Class",Corporate,"United States",Seattle,Washington,98105,West,"Office Supplies",Binders,19.92,5,0.20,6.97,34.99,"Positive Impact",119540.74
+717,"First Class",Consumer,"United States",Dover,Delaware,19901,East,Furniture,Furnishings,9.94,2,0.00,3.08,30.99,"No Discount",4878.07
+718,"Standard Class",Consumer,"United States",Newark,Ohio,43055,East,Furniture,Furnishings,103.06,3,0.20,24.48,23.75,"Positive Impact",28576.15
+719,"Standard Class","Home Office","United States",Orem,Utah,84057,West,"Office Supplies",Binders,59.81,3,0.20,19.44,32.50,"Positive Impact",2994.09
+720,"Standard Class","Home Office","United States",Orem,Utah,84057,West,Furniture,Furnishings,73.32,6,0.00,22.00,30.01,"No Discount",2994.09
+721,"Standard Class","Home Office","United States","Los Angeles",California,90045,West,"Office Supplies",Paper,146.82,3,0.00,73.41,50.00,"No Discount",175851.33
+722,"Standard Class",Corporate,"United States",Detroit,Michigan,48205,Central,Furniture,Tables,1652.94,3,0.00,231.41,14.00,"No Discount",42446.94
+723,"Standard Class",Corporate,"United States",Detroit,Michigan,48205,Central,"Office Supplies",Storage,296.37,3,0.00,80.02,27.00,"No Discount",42446.94
+724,"Standard Class","Home Office","United States",Philadelphia,Pennsylvania,19140,East,Furniture,Furnishings,129.92,5,0.20,21.11,16.25,"Positive Impact",109077.09
+725,"Standard Class",Corporate,"United States",Hialeah,Florida,33012,South,"Office Supplies",Supplies,45.58,7,0.20,5.13,11.25,"Positive Impact",2338.94
+726,"Standard Class",Consumer,"United States",Austin,Texas,78745,Central,"Office Supplies",Envelopes,17.57,2,0.20,6.37,36.25,"Positive Impact",6058.01
+727,"Standard Class",Consumer,"United States",Austin,Texas,78745,Central,Technology,Phones,55.99,1,0.20,5.60,10.00,"Positive Impact",6058.01
+728,"First Class",Consumer,"United States",Oceanside,"New York",11572,East,"Office Supplies",Paper,182.72,8,0.00,84.05,46.00,"No Discount",4350.74
+729,"First Class",Consumer,"United States",Oceanside,"New York",11572,East,Furniture,Tables,400.03,2,0.40,-153.35,-38.33,"Negative Impact",4350.74
+730,"First Class",Consumer,"United States",Oceanside,"New York",11572,East,"Office Supplies",Storage,33.63,3,0.00,10.09,30.00,"No Discount",4350.74
+731,"First Class",Consumer,"United States",Oceanside,"New York",11572,East,Furniture,Chairs,542.65,3,0.10,102.50,18.89,"Positive Impact",4350.74
+732,"First Class",Consumer,"United States",Oceanside,"New York",11572,East,"Office Supplies",Labels,6.30,2,0.00,3.02,47.94,"No Discount",4350.74
+733,"Standard Class","Home Office","United States",Seattle,Washington,98115,West,"Office Supplies",Storage,242.94,3,0.00,9.72,4.00,"No Discount",119540.74
+734,"Standard Class","Home Office","United States",Seattle,Washington,98115,West,Technology,Accessories,179.97,3,0.00,86.39,48.00,"No Discount",119540.74
+735,"Standard Class","Home Office","United States",Seattle,Washington,98115,West,"Office Supplies",Binders,99.70,6,0.20,33.65,33.75,"Positive Impact",119540.74
+736,"Standard Class","Home Office","United States",Seattle,Washington,98115,West,"Office Supplies",Binders,27.94,4,0.20,9.43,33.75,"Positive Impact",119540.74
+737,"Standard Class","Home Office","United States",Seattle,Washington,98115,West,Furniture,Bookcases,84.98,1,0.00,18.70,22.01,"No Discount",119540.74
+738,"Standard Class","Home Office","United States",Seattle,Washington,98115,West,"Office Supplies",Binders,18.72,5,0.20,6.55,34.99,"Positive Impact",119540.74
+739,"Standard Class",Consumer,"United States","San Francisco",California,94110,West,Technology,Accessories,49.98,2,0.00,8.50,17.01,"No Discount",112669.09
+740,"Standard Class","Home Office","United States",Naperville,Illinois,60540,Central,"Office Supplies",Labels,11.78,3,0.20,4.27,36.25,"Positive Impact",1288.31
+741,"Standard Class","Home Office","United States",Naperville,Illinois,60540,Central,"Office Supplies",Storage,272.74,3,0.20,-64.77,-23.75,"Negative Impact",1288.31
+742,"Standard Class","Home Office","United States",Naperville,Illinois,60540,Central,"Office Supplies",Binders,3.54,2,0.80,-5.49,-155.08,"Negative Impact",1288.31
+743,"Standard Class",Consumer,"United States",Dallas,Texas,75220,Central,"Office Supplies",Supplies,51.52,5,0.20,-10.95,-21.25,"Negative Impact",20131.90
+744,"Standard Class",Consumer,"United States",Dallas,Texas,75220,Central,"Office Supplies",Paper,3.53,1,0.20,1.15,32.58,"Positive Impact",20131.90
+745,"Standard Class",Consumer,"United States",Dallas,Texas,75220,Central,"Office Supplies",Paper,4.62,1,0.20,1.68,36.36,"Positive Impact",20131.90
+746,"Standard Class",Consumer,"United States",Dallas,Texas,75220,Central,"Office Supplies",Supplies,55.17,4,0.20,6.21,11.26,"Positive Impact",20131.90
+747,"Same Day",Corporate,"United States","San Diego",California,92105,West,Furniture,Tables,567.12,10,0.20,-28.36,-5.00,"Negative Impact",47521.05
+748,"Same Day",Corporate,"United States","San Diego",California,92105,West,"Office Supplies",Storage,359.32,4,0.00,7.19,2.00,"No Discount",47521.05
+749,"Second Class",Consumer,"United States",Evanston,Illinois,60201,Central,Technology,Phones,11.99,1,0.20,0.90,7.51,"Positive Impact",1753.80
+750,"Standard Class",Consumer,"United States",Trenton,Michigan,48183,Central,"Office Supplies",Binders,58.05,3,0.00,26.70,45.99,"No Discount",1765.20
+751,"Standard Class",Consumer,"United States",Trenton,Michigan,48183,Central,Furniture,Furnishings,157.74,11,0.00,56.79,36.00,"No Discount",1765.20
+752,"Standard Class",Consumer,"United States",Trenton,Michigan,48183,Central,"Office Supplies",Art,56.98,7,0.00,22.79,40.00,"No Discount",1765.20
+753,"Standard Class",Consumer,"United States",Trenton,Michigan,48183,Central,"Office Supplies",Binders,2.88,1,0.00,1.41,48.96,"No Discount",1765.20
+754,"First Class",Corporate,"United States","San Francisco",California,94110,West,Technology,Copiers,1199.98,3,0.20,374.99,31.25,"Positive Impact",112669.09
+755,"Standard Class",Consumer,"United States","Los Angeles",California,90036,West,Furniture,Furnishings,79.92,4,0.00,28.77,36.00,"No Discount",175851.33
+756,"Standard Class",Corporate,"United States",Jacksonville,Florida,32216,South,Furniture,Tables,383.44,4,0.45,-167.32,-43.64,"Negative Impact",44713.18
+757,"Standard Class",Consumer,"United States","Cottage Grove",Minnesota,55016,Central,"Office Supplies",Storage,24.56,2,0.00,6.88,28.01,"No Discount",144.36
+758,"Standard Class",Consumer,"United States","Cottage Grove",Minnesota,55016,Central,Technology,Accessories,119.80,4,0.00,47.92,40.00,"No Discount",144.36
+759,"Standard Class",Corporate,"United States","New York City","New York",10009,East,"Office Supplies",Binders,13.13,3,0.20,4.27,32.52,"Positive Impact",256368.12
+760,"Standard Class",Corporate,"United States","Green Bay",Wisconsin,54302,Central,"Office Supplies",Paper,22.72,4,0.00,10.22,44.98,"No Discount",527.32
+761,"Standard Class",Consumer,"United States","Los Angeles",California,90004,West,"Office Supplies",Paper,58.32,9,0.00,27.99,47.99,"No Discount",175851.33
+762,"Standard Class",Corporate,"United States",Atlanta,Georgia,30318,South,"Office Supplies",Labels,12.39,3,0.00,5.70,46.00,"No Discount",17197.84
+763,"Standard Class",Consumer,"United States",Columbus,Ohio,43229,East,Technology,Phones,107.98,3,0.40,-27.00,-25.00,"Negative Impact",38706.23
+764,"Second Class",Corporate,"United States","Bossier City",Louisiana,71111,South,"Office Supplies",Envelopes,11.36,2,0.00,5.34,47.01,"No Discount",1417.18
+765,"Second Class",Corporate,"United States","Bossier City",Louisiana,71111,South,"Office Supplies",Envelopes,50.94,3,0.00,25.47,50.00,"No Discount",1417.18
+766,"Second Class",Corporate,"United States","Bossier City",Louisiana,71111,South,Technology,Accessories,646.74,6,0.00,258.70,40.00,"No Discount",1417.18
+767,"Second Class",Corporate,"United States","Bossier City",Louisiana,71111,South,"Office Supplies",Binders,5.64,3,0.00,2.71,48.05,"No Discount",1417.18
+768,"Second Class",Corporate,"United States","Bossier City",Louisiana,71111,South,"Office Supplies",Storage,572.58,6,0.00,34.35,6.00,"No Discount",1417.18
+769,"Standard Class",Corporate,"United States","Saint Petersburg",Florida,33710,South,Furniture,Furnishings,310.88,2,0.20,23.32,7.50,"Positive Impact",1690.79
+770,"Standard Class",Consumer,"United States",Arlington,Virginia,22204,South,Furniture,Chairs,641.96,2,0.00,179.75,28.00,"No Discount",20214.53
+771,"Standard Class",Corporate,"United States","Des Moines",Iowa,50315,Central,"Office Supplies",Binders,18.28,2,0.00,9.14,50.00,"No Discount",5463.28
+772,"Standard Class",Corporate,"United States","Des Moines",Iowa,50315,Central,Technology,Phones,207.00,3,0.00,51.75,25.00,"No Discount",5463.28
+773,"Standard Class",Corporate,"United States","Des Moines",Iowa,50315,Central,"Office Supplies",Binders,32.35,5,0.00,16.18,50.02,"No Discount",5463.28
+774,"Standard Class",Corporate,"United States","Des Moines",Iowa,50315,Central,"Office Supplies",Binders,7.71,1,0.00,3.47,45.01,"No Discount",5463.28
+775,"Standard Class",Corporate,"United States","Des Moines",Iowa,50315,Central,"Office Supplies",Art,40.30,2,0.00,10.88,27.00,"No Discount",5463.28
+776,"Standard Class",Corporate,"United States","Des Moines",Iowa,50315,Central,Furniture,Furnishings,34.58,7,0.00,14.52,41.99,"No Discount",5463.28
+777,"Standard Class",Consumer,"United States",Cincinnati,Ohio,45231,East,"Office Supplies",Art,32.76,7,0.20,3.69,11.26,"Positive Impact",1611.98
+778,"First Class","Home Office","United States","San Francisco",California,94110,West,Furniture,Chairs,544.01,3,0.20,40.80,7.50,"Positive Impact",112669.09
+779,"First Class","Home Office","United States","San Francisco",California,94110,West,"Office Supplies",Paper,59.94,3,0.00,28.17,47.00,"No Discount",112669.09
+780,"First Class","Home Office","United States","San Francisco",California,94110,West,"Office Supplies",Paper,23.92,4,0.00,11.72,49.00,"No Discount",112669.09
+781,"First Class","Home Office","United States","San Francisco",California,94110,West,"Office Supplies",Paper,4.28,1,0.00,1.93,45.09,"No Discount",112669.09
+782,"Second Class",Consumer,"United States",Columbus,Ohio,43229,East,"Office Supplies",Binders,32.07,5,0.70,-22.45,-70.00,"Negative Impact",38706.23
+783,"Second Class",Consumer,"United States",Columbus,Ohio,43229,East,Technology,Accessories,24.00,2,0.20,-2.70,-11.25,"Negative Impact",38706.23
+784,"Second Class",Consumer,"United States",Columbus,Ohio,43229,East,Furniture,Bookcases,35.49,1,0.50,-15.62,-44.01,"Negative Impact",38706.23
+785,"Second Class",Consumer,"United States",Columbus,Ohio,43229,East,Technology,Accessories,47.98,2,0.20,0.60,1.25,"Positive Impact",38706.23
+786,"Standard Class",Corporate,"United States",Columbia,"South Carolina",29203,South,"Office Supplies",Envelopes,186.69,3,0.00,87.74,47.00,"No Discount",25283.34
+787,"Second Class",Consumer,"United States",Lancaster,California,93534,West,"Office Supplies",Binders,17.46,2,0.20,5.89,33.73,"Positive Impact",9891.48
+788,"Standard Class",Consumer,"United States",Lancaster,California,93534,West,Furniture,Chairs,348.93,2,0.20,34.89,10.00,"Positive Impact",9891.48
+789,"Standard Class",Consumer,"United States",Richmond,Virginia,23223,South,"Office Supplies",Binders,143.96,4,0.00,69.10,48.00,"No Discount",18137.93
+790,"Standard Class",Consumer,"United States",Richmond,Virginia,23223,South,"Office Supplies",Storage,15.42,1,0.00,4.16,26.98,"No Discount",18137.93
+791,"Standard Class",Consumer,"United States",Richmond,Virginia,23223,South,"Office Supplies",Binders,43.04,8,0.00,21.09,49.00,"No Discount",18137.93
+792,"Standard Class",Consumer,"United States",Richmond,Virginia,23223,South,Furniture,Chairs,332.94,3,0.00,79.91,24.00,"No Discount",18137.93
+793,"Same Day",Consumer,"United States",Asheville,"North Carolina",28806,South,Technology,Phones,1363.96,5,0.20,85.25,6.25,"Positive Impact",1475.37
+794,"Standard Class",Consumer,"United States","San Francisco",California,94110,West,"Office Supplies",Labels,9.96,2,0.00,4.58,45.98,"No Discount",112669.09
+795,"Standard Class",Consumer,"United States","San Francisco",California,94110,West,"Office Supplies",Paper,21.72,4,0.00,10.64,48.99,"No Discount",112669.09
+796,"Standard Class",Consumer,"United States",Rochester,Minnesota,55901,Central,"Office Supplies",Binders,20.16,7,0.00,9.88,49.01,"No Discount",7974.53
+797,"First Class",Corporate,"United States",Rochester,"New York",14609,East,"Office Supplies",Paper,132.79,7,0.00,63.74,48.00,"No Discount",7974.53
+798,"First Class",Corporate,"United States",Rochester,"New York",14609,East,"Office Supplies",Paper,12.96,2,0.00,6.22,47.99,"No Discount",7974.53
+799,"First Class",Corporate,"United States",Rochester,"New York",14609,East,"Office Supplies",Labels,21.56,7,0.00,10.35,48.01,"No Discount",7974.53
+800,"Standard Class",Consumer,"United States","Lake Elsinore",California,92530,West,Furniture,Chairs,283.92,5,0.20,17.75,6.25,"Positive Impact",283.92
+801,"First Class",Corporate,"United States","San Diego",California,92105,West,Furniture,Furnishings,22.23,1,0.00,7.34,33.02,"No Discount",47521.05
+802,"First Class",Corporate,"United States","San Diego",California,92105,West,Technology,Phones,215.97,2,0.20,18.90,8.75,"Positive Impact",47521.05
+803,"Second Class",Corporate,"United States","New York City","New York",10024,East,"Office Supplies",Appliances,355.32,9,0.00,99.49,28.00,"No Discount",256368.12
+804,"Standard Class",Corporate,"United States",Monroe,Louisiana,71203,South,"Office Supplies",Paper,12.96,2,0.00,6.22,47.99,"No Discount",2970.43
+805,"First Class",Consumer,"United States","San Francisco",California,94122,West,Furniture,Furnishings,18.28,2,0.00,6.22,34.03,"No Discount",112669.09
+806,"Standard Class",Consumer,"United States",Denver,Colorado,80219,West,"Office Supplies",Art,43.18,3,0.20,4.32,10.00,"Positive Impact",12198.78
+807,"Standard Class",Consumer,"United States",Denver,Colorado,80219,West,Technology,Phones,1983.97,4,0.20,248.00,12.50,"Positive Impact",12198.78
+808,"First Class",Consumer,"United States",Omaha,Nebraska,68104,Central,Furniture,Furnishings,28.40,2,0.00,11.08,39.01,"No Discount",6312.53
+809,"First Class",Consumer,"United States",Omaha,Nebraska,68104,Central,Technology,Accessories,149.97,3,0.00,50.99,34.00,"No Discount",6312.53
+810,"First Class",Consumer,"United States",Edmonds,Washington,98026,West,"Office Supplies",Art,11.52,4,0.00,3.23,28.04,"No Discount",2523.69
+811,"First Class",Consumer,"United States",Edmonds,Washington,98026,West,Furniture,Tables,1298.55,5,0.00,311.65,24.00,"No Discount",2523.69
+812,"First Class",Consumer,"United States",Edmonds,Washington,98026,West,"Office Supplies",Appliances,213.92,4,0.00,62.04,29.00,"No Discount",2523.69
+813,"First Class",Consumer,"United States",Edmonds,Washington,98026,West,Technology,Accessories,25.78,2,0.00,2.58,10.01,"No Discount",2523.69
+814,"Same Day",Consumer,"United States","Santa Ana",California,92704,West,Furniture,Furnishings,18.28,2,0.00,6.22,34.03,"No Discount",3366.31
+815,"Same Day",Consumer,"United States","Santa Ana",California,92704,West,Technology,Accessories,1399.93,7,0.00,601.97,43.00,"No Discount",3366.31
+816,"First Class",Corporate,"United States",Milwaukee,Wisconsin,53209,Central,"Office Supplies",Paper,51.84,8,0.00,24.88,47.99,"No Discount",11410.22
+817,"Standard Class",Consumer,"United States",Philadelphia,Pennsylvania,19140,East,"Office Supplies",Paper,5.34,1,0.20,1.87,35.02,"Positive Impact",109077.09
+818,"Standard Class",Consumer,"United States",Philadelphia,Pennsylvania,19140,East,"Office Supplies",Paper,41.47,8,0.20,14.52,35.01,"Positive Impact",109077.09
+819,"Standard Class",Consumer,"United States",Philadelphia,Pennsylvania,19140,East,"Office Supplies",Binders,3.17,3,0.70,-2.43,-76.66,"Negative Impact",109077.09
+820,"Standard Class",Consumer,"United States",Philadelphia,Pennsylvania,19140,East,Furniture,Chairs,1228.47,5,0.30,0.00,0.00,"Negative Impact",109077.09
+821,"Standard Class",Consumer,"United States",Philadelphia,Pennsylvania,19140,East,"Office Supplies",Binders,31.09,3,0.70,-22.80,-73.34,"Negative Impact",109077.09
+822,"Standard Class",Consumer,"United States",Philadelphia,Pennsylvania,19140,East,"Office Supplies",Paper,335.52,4,0.20,117.43,35.00,"Positive Impact",109077.09
+823,"Standard Class",Consumer,"United States",Belleville,"New Jersey",7109,East,Technology,Accessories,239.97,3,0.00,71.99,30.00,"No Discount",1891.60
+824,"Standard Class",Consumer,"United States",Belleville,"New Jersey",7109,East,"Office Supplies",Labels,9.82,2,0.00,4.81,48.98,"No Discount",1891.60
+825,"Standard Class",Consumer,"United States","San Francisco",California,94110,West,Technology,Accessories,67.80,4,0.00,4.07,6.00,"No Discount",112669.09
+826,"Standard Class",Consumer,"United States","San Francisco",California,94110,West,Technology,Accessories,167.97,3,0.00,40.31,24.00,"No Discount",112669.09
+827,"Standard Class",Consumer,"United States",Lakeville,Minnesota,55044,Central,"Office Supplies",Fasteners,35.00,7,0.00,16.80,48.00,"No Discount",4260.95
+828,"Standard Class",Consumer,"United States",Lakeville,Minnesota,55044,Central,"Office Supplies",Supplies,37.24,4,0.00,10.80,29.00,"No Discount",4260.95
+829,"Standard Class",Consumer,"United States",Lakeville,Minnesota,55044,Central,"Office Supplies",Envelopes,15.28,2,0.00,7.49,49.02,"No Discount",4260.95
+830,"Second Class",Consumer,"United States",Florence,Kentucky,41042,South,Furniture,Chairs,301.96,2,0.00,90.59,30.00,"No Discount",7621.72
+831,"Second Class",Consumer,"United States",Florence,Kentucky,41042,South,"Office Supplies",Appliances,180.66,3,0.00,50.58,28.00,"No Discount",7621.72
+832,"Second Class",Consumer,"United States",Florence,Kentucky,41042,South,Technology,Phones,191.98,2,0.00,51.83,27.00,"No Discount",7621.72
+833,"Second Class",Consumer,"United States",Florence,Kentucky,41042,South,Technology,Phones,65.99,1,0.00,17.16,26.00,"No Discount",7621.72
+834,"Standard Class",Corporate,"United States",Tampa,Florida,33614,South,"Office Supplies",Art,35.22,2,0.20,2.64,7.50,"Positive Impact",5196.10
+835,"Standard Class",Corporate,"United States",Tampa,Florida,33614,South,"Office Supplies",Appliances,23.70,2,0.20,6.52,27.51,"Positive Impact",5196.10
+836,"Standard Class",Corporate,"United States",Tampa,Florida,33614,South,Technology,Machines,265.48,1,0.50,-111.50,-42.00,"Negative Impact",5196.10
+837,"Second Class",Consumer,"United States",Tyler,Texas,75701,Central,"Office Supplies",Binders,51.18,4,0.80,-79.34,-155.02,"Negative Impact",347.20
+838,"Standard Class","Home Office","United States",Columbia,Tennessee,38401,South,"Office Supplies",Paper,9.66,2,0.20,3.26,33.75,"Positive Impact",25283.34
+839,"Standard Class",Corporate,"United States","Fort Worth",Texas,76106,Central,Technology,Phones,21.07,3,0.20,1.58,7.50,"Positive Impact",6602.69
+840,"Standard Class",Corporate,"United States","New York City","New York",10035,East,"Office Supplies",Art,60.45,3,0.00,16.32,27.00,"No Discount",256368.12
+841,"Standard Class",Corporate,"United States","New York City","New York",10035,East,"Office Supplies",Art,11.52,4,0.00,3.34,28.99,"No Discount",256368.12
+842,"Standard Class",Corporate,"United States","New York City","New York",10035,East,Furniture,Bookcases,186.05,4,0.20,9.30,5.00,"Positive Impact",256368.12
+843,"First Class",Corporate,"United States","Los Angeles",California,90036,West,"Office Supplies",Binders,37.44,4,0.20,11.70,31.25,"Positive Impact",175851.33
+844,"First Class",Corporate,"United States","Los Angeles",California,90036,West,"Office Supplies",Binders,26.98,4,0.20,8.77,32.51,"Positive Impact",175851.33
+845,"First Class",Corporate,"United States","Los Angeles",California,90036,West,"Office Supplies",Supplies,11.36,2,0.00,3.29,28.96,"No Discount",175851.33
+846,"First Class",Corporate,"United States","Los Angeles",California,90036,West,"Office Supplies",Labels,14.62,2,0.00,6.87,46.99,"No Discount",175851.33
+847,"Standard Class",Consumer,"United States",Louisville,Kentucky,40214,South,Technology,Phones,83.72,7,0.00,23.44,28.00,"No Discount",12345.80
+848,"Standard Class",Consumer,"United States",Louisville,Kentucky,40214,South,Furniture,Chairs,287.94,3,0.00,77.74,27.00,"No Discount",12345.80
+849,"Standard Class",Consumer,"United States",Lorain,Ohio,44052,East,Furniture,Furnishings,48.90,4,0.20,8.56,17.51,"Positive Impact",2015.11
+850,"Standard Class",Corporate,"United States",Linden,"New Jersey",7036,East,Technology,Accessories,115.36,7,0.00,49.60,43.00,"No Discount",115.36
+851,"Second Class",Corporate,"United States",Salinas,California,93905,West,"Office Supplies",Art,5.16,2,0.00,1.34,25.97,"No Discount",728.90
+852,"Second Class",Corporate,"United States",Salinas,California,93905,West,"Office Supplies",Paper,38.88,6,0.00,18.66,47.99,"No Discount",728.90
+853,"Standard Class",Consumer,"United States",Jackson,Mississippi,39212,South,"Office Supplies",Art,185.88,6,0.00,50.19,27.00,"No Discount",24963.85
+854,"Standard Class",Consumer,"United States","New York City","New York",10035,East,Furniture,Furnishings,44.46,2,0.00,14.67,33.00,"No Discount",256368.12
+855,"Standard Class",Consumer,"United States","New York City","New York",10035,East,"Office Supplies",Storage,242.94,3,0.00,9.72,4.00,"No Discount",256368.12
+856,"Standard Class",Consumer,"United States","New York City","New York",10035,East,"Office Supplies",Paper,39.96,2,0.00,18.78,47.00,"No Discount",256368.12
+857,"Standard Class",Consumer,"United States","New York City","New York",10035,East,"Office Supplies",Supplies,102.30,10,0.00,26.60,26.00,"No Discount",256368.12
+858,"Standard Class",Consumer,"United States","New York City","New York",10035,East,"Office Supplies",Storage,21.36,2,0.00,5.77,27.01,"No Discount",256368.12
+859,"Standard Class","Home Office","United States","New Brunswick","New Jersey",8901,East,"Office Supplies",Paper,7.61,1,0.00,3.58,47.04,"No Discount",14.77
+860,"Standard Class","Home Office","United States","New Brunswick","New Jersey",8901,East,"Office Supplies",Fasteners,7.16,2,0.00,3.58,50.00,"No Discount",14.77
+861,"Standard Class",Consumer,"United States","San Francisco",California,94122,West,"Office Supplies",Supplies,7.36,2,0.00,0.15,2.04,"No Discount",112669.09
+862,"Standard Class",Consumer,"United States","San Francisco",California,94122,West,"Office Supplies",Art,23.10,2,0.00,10.63,46.02,"No Discount",112669.09
+863,"Second Class",Corporate,"United States",Jacksonville,Florida,32216,South,Technology,Accessories,191.47,6,0.20,40.69,21.25,"Positive Impact",44713.18
+864,"Second Class",Corporate,"United States",Jacksonville,Florida,32216,South,"Office Supplies",Art,5.25,2,0.20,0.59,11.24,"Positive Impact",44713.18
+865,"Second Class",Corporate,"United States",Jacksonville,Florida,32216,South,Technology,Phones,59.18,2,0.20,5.18,8.75,"Positive Impact",44713.18
+866,"Standard Class",Corporate,"United States",Springfield,Virginia,22153,South,"Office Supplies",Labels,2.89,1,0.00,1.36,47.06,"No Discount",43054.35
+867,"Standard Class",Corporate,"United States",Springfield,Virginia,22153,South,Furniture,Furnishings,51.94,1,0.00,21.30,41.01,"No Discount",43054.35
+868,"First Class",Corporate,"United States",Philadelphia,Pennsylvania,19140,East,"Office Supplies",Labels,15.94,4,0.20,5.18,32.50,"Positive Impact",109077.09
+869,"Standard Class",Corporate,"United States",Lancaster,Pennsylvania,17602,East,"Office Supplies",Binders,44.91,6,0.70,-35.93,-80.00,"Negative Impact",9891.48
+870,"First Class","Home Office","United States",Philadelphia,Pennsylvania,19143,East,"Office Supplies",Binders,1141.47,5,0.70,-760.98,-66.67,"Negative Impact",109077.09
+871,"First Class","Home Office","United States",Philadelphia,Pennsylvania,19143,East,Technology,Phones,280.78,3,0.40,-46.80,-16.67,"Negative Impact",109077.09
+872,"First Class",Consumer,"United States",Concord,"New Hampshire",3301,East,"Office Supplies",Paper,34.44,3,0.00,17.22,50.00,"No Discount",10542.40
+873,"Standard Class",Consumer,"United States","New York City","New York",10009,East,"Office Supplies",Paper,11.36,2,0.00,5.23,46.04,"No Discount",256368.12
+874,"Standard Class",Consumer,"United States","New York City","New York",10009,East,"Office Supplies",Binders,106.34,7,0.20,37.22,35.00,"Positive Impact",256368.12
+875,"Standard Class",Consumer,"United States",Charlotte,"North Carolina",28205,South,"Office Supplies",Paper,192.16,5,0.20,67.26,35.00,"Positive Impact",13693.33
+876,"Standard Class","Home Office","United States",Concord,"New Hampshire",3301,East,Furniture,Furnishings,322.59,3,0.00,64.52,20.00,"No Discount",10542.40
+877,"Standard Class","Home Office","United States",Concord,"New Hampshire",3301,East,Technology,Accessories,29.99,1,0.00,13.20,44.01,"No Discount",10542.40
+878,"Standard Class","Home Office","United States",Concord,"New Hampshire",3301,East,Technology,Accessories,371.97,3,0.00,66.95,18.00,"No Discount",10542.40
+879,"Standard Class","Home Office","United States",Philadelphia,Pennsylvania,19120,East,"Office Supplies",Binders,5.89,4,0.70,-4.12,-69.95,"Negative Impact",109077.09
+880,"Second Class","Home Office","United States","New York City","New York",10024,East,"Office Supplies",Binders,68.47,3,0.20,23.11,33.75,"Positive Impact",256368.12
+881,"Second Class","Home Office","United States","New York City","New York",10024,East,Furniture,Chairs,1242.90,5,0.10,262.39,21.11,"Positive Impact",256368.12
+882,"Standard Class",Consumer,"United States",Springfield,Virginia,22153,South,"Office Supplies",Storage,30.84,2,0.00,8.33,27.01,"No Discount",43054.35
+883,"Same Day",Consumer,"United States","San Francisco",California,94109,West,"Office Supplies",Art,13.48,4,0.00,5.93,43.99,"No Discount",112669.09
+884,"First Class","Home Office","United States",Detroit,Michigan,48227,Central,Furniture,Furnishings,31.40,5,0.00,10.05,32.01,"No Discount",42446.94
+885,"Standard Class",Consumer,"United States",Rochester,"New York",14609,East,Furniture,Furnishings,17.46,2,0.00,5.94,34.02,"No Discount",7974.53
+886,"Second Class",Corporate,"United States","Los Angeles",California,90045,West,"Office Supplies",Binders,13.94,3,0.20,4.53,32.50,"Positive Impact",175851.33
+887,"Standard Class",Consumer,"United States","San Diego",California,92105,West,"Office Supplies",Storage,83.76,12,0.00,1.68,2.01,"No Discount",47521.05
+888,"Standard Class","Home Office","United States",Columbia,Maryland,21044,East,"Office Supplies",Binders,37.66,7,0.00,18.45,48.99,"No Discount",25283.34
+889,"Standard Class",Corporate,"United States","San Francisco",California,94122,West,"Office Supplies",Paper,34.68,6,0.00,16.99,48.99,"No Discount",112669.09
+890,"Standard Class",Consumer,"United States","New Rochelle","New York",10801,East,Technology,Accessories,149.95,5,0.00,15.00,10.00,"No Discount",1255.22
+891,"Standard Class",Consumer,"United States","New Rochelle","New York",10801,East,"Office Supplies",Binders,51.31,3,0.20,18.60,36.25,"Positive Impact",1255.22
+892,"First Class","Home Office","United States",Detroit,Michigan,48227,Central,"Office Supplies",Paper,4.54,1,0.00,2.04,44.93,"No Discount",42446.94
+893,"First Class","Home Office","United States",Detroit,Michigan,48227,Central,"Office Supplies",Art,15.92,4,0.00,5.41,33.98,"No Discount",42446.94
+894,"First Class","Home Office","United States",Detroit,Michigan,48227,Central,Technology,Phones,543.92,8,0.00,135.98,25.00,"No Discount",42446.94
+895,"First Class",Corporate,"United States","San Francisco",California,94122,West,"Office Supplies",Storage,155.82,7,0.00,42.07,27.00,"No Discount",112669.09
+896,"First Class",Corporate,"United States","San Francisco",California,94122,West,"Office Supplies",Binders,70.01,3,0.20,24.50,35.00,"Positive Impact",112669.09
+897,"Second Class",Consumer,"United States",Houston,Texas,77095,Central,"Office Supplies",Envelopes,15.65,2,0.20,5.09,32.52,"Positive Impact",64504.71
+898,"Standard Class",Consumer,"United States",Detroit,Michigan,48227,Central,"Office Supplies",Labels,103.60,7,0.00,51.80,50.00,"No Discount",42446.94
+899,"Second Class",Corporate,"United States",Auburn,"New York",13021,East,"Office Supplies",Paper,46.96,8,0.00,22.54,48.00,"No Discount",3155.17
+900,"First Class",Corporate,"United States",Springfield,Ohio,45503,East,"Office Supplies",Binders,8.90,2,0.70,-6.53,-73.37,"Negative Impact",43054.35
+901,"First Class",Consumer,"United States",Garland,Texas,75043,Central,"Office Supplies",Labels,10.44,5,0.20,3.39,32.47,"Positive Impact",67.70
+902,"First Class",Consumer,"United States",Garland,Texas,75043,Central,"Office Supplies",Binders,18.34,4,0.80,-32.09,-174.97,"Negative Impact",67.70
+903,"First Class",Consumer,"United States",Chicago,Illinois,60653,Central,Technology,Phones,323.98,3,0.20,20.25,6.25,"Positive Impact",48539.59
+904,"Standard Class",Consumer,"United States","Los Angeles",California,90032,West,"Office Supplies",Paper,20.04,3,0.00,9.62,48.00,"No Discount",175851.33
+905,"Standard Class",Consumer,"United States","Los Angeles",California,90032,West,"Office Supplies",Storage,64.96,2,0.00,2.60,4.00,"No Discount",175851.33
+906,"Standard Class",Consumer,"United States","Los Angeles",California,90032,West,"Office Supplies",Paper,12.96,2,0.00,6.22,47.99,"No Discount",175851.33
+907,"Standard Class",Consumer,"United States","New York City","New York",10009,East,Furniture,Bookcases,323.14,4,0.20,12.12,3.75,"Positive Impact",256368.12
+908,"Standard Class",Consumer,"United States","New York City","New York",10009,East,Technology,Phones,90.93,7,0.00,2.73,3.00,"No Discount",256368.12
+909,"Standard Class",Consumer,"United States","New York City","New York",10009,East,"Office Supplies",Binders,52.78,3,0.20,19.79,37.50,"Positive Impact",256368.12
+910,"Standard Class","Home Office","United States",Jackson,Michigan,49201,Central,Technology,Phones,1199.80,4,0.00,323.95,27.00,"No Discount",24963.85
+911,"Standard Class","Home Office","United States",Jackson,Michigan,49201,Central,Technology,Accessories,1928.78,7,0.00,829.38,43.00,"No Discount",24963.85
+912,"Standard Class","Home Office","United States",Jackson,Michigan,49201,Central,"Office Supplies",Storage,352.38,2,0.00,81.05,23.00,"No Discount",24963.85
+913,"Standard Class","Home Office","United States",Norwich,Connecticut,6360,East,Furniture,Furnishings,22.20,6,0.00,9.10,40.99,"No Discount",414.04
+914,"First Class",Corporate,"United States",Milwaukee,Wisconsin,53209,Central,Furniture,Furnishings,46.94,1,0.00,19.25,41.01,"No Discount",11410.22
+915,"First Class",Corporate,"United States",Milwaukee,Wisconsin,53209,Central,Technology,Accessories,143.73,9,0.00,56.05,39.00,"No Discount",11410.22
+916,"Standard Class",Corporate,"United States","San Antonio",Texas,78207,Central,Furniture,Tables,99.92,2,0.30,-18.56,-18.57,"Negative Impact",21843.54
+917,"Standard Class",Corporate,"United States","San Antonio",Texas,78207,Central,Furniture,Chairs,797.94,4,0.30,-57.00,-7.14,"Negative Impact",21843.54
+918,"Standard Class",Corporate,"United States","San Antonio",Texas,78207,Central,"Office Supplies",Binders,8.57,3,0.80,-14.57,-170.01,"Negative Impact",21843.54
+919,"Standard Class",Corporate,"United States",Dallas,Texas,75220,Central,"Office Supplies",Envelopes,149.35,3,0.20,50.41,33.75,"Positive Impact",20131.90
+920,"Standard Class",Corporate,"United States",Dallas,Texas,75220,Central,"Office Supplies",Storage,12.99,1,0.20,-0.81,-6.24,"Negative Impact",20131.90
+921,"Standard Class",Consumer,"United States",Alexandria,Virginia,22304,South,"Office Supplies",Storage,24.56,2,0.00,6.88,28.01,"No Discount",5519.57
+922,"Standard Class",Consumer,"United States","New York City","New York",10009,East,Technology,Accessories,85.14,3,0.00,34.91,41.00,"No Discount",256368.12
+923,"Standard Class",Consumer,"United States","New York City","New York",10009,East,Technology,Phones,21.99,1,0.00,10.56,48.02,"No Discount",256368.12
+924,"Standard Class",Consumer,"United States","New York City","New York",10009,East,"Office Supplies",Appliances,406.60,5,0.00,113.85,28.00,"No Discount",256368.12
+925,"Standard Class",Corporate,"United States","New York City","New York",10011,East,"Office Supplies",Binders,841.57,2,0.20,294.55,35.00,"Positive Impact",256368.12
+926,"First Class",Consumer,"United States",Philadelphia,Pennsylvania,19143,East,"Office Supplies",Paper,15.55,3,0.20,5.44,34.98,"Positive Impact",109077.09
+927,"First Class",Consumer,"United States",Philadelphia,Pennsylvania,19143,East,Technology,Accessories,252.00,5,0.20,53.55,21.25,"Positive Impact",109077.09
+928,"Standard Class","Home Office","United States",Springfield,Virginia,22153,South,"Office Supplies",Art,46.20,4,0.00,12.94,28.01,"No Discount",43054.35
+929,"Standard Class","Home Office","United States",Springfield,Virginia,22153,South,"Office Supplies",Appliances,28.84,2,0.00,9.52,33.01,"No Discount",43054.35
+930,"First Class",Consumer,"United States",Toledo,Ohio,43615,East,"Office Supplies",Art,14.59,3,0.20,2.55,17.48,"Positive Impact",4466.08
+931,"First Class",Consumer,"United States",Toledo,Ohio,43615,East,"Office Supplies",Art,89.86,3,0.20,21.34,23.75,"Positive Impact",4466.08
+932,"First Class",Consumer,"United States",Toledo,Ohio,43615,East,"Office Supplies",Paper,13.87,3,0.20,5.03,36.27,"Positive Impact",4466.08
+933,"Standard Class",Consumer,"United States",Philadelphia,Pennsylvania,19140,East,"Office Supplies",Paper,12.19,3,0.20,4.11,33.72,"Positive Impact",109077.09
+934,"Standard Class","Home Office","United States",Philadelphia,Pennsylvania,19120,East,"Office Supplies",Paper,45.06,8,0.20,15.21,33.75,"Positive Impact",109077.09
+935,"Standard Class","Home Office","United States",Philadelphia,Pennsylvania,19120,East,"Office Supplies",Binders,29.72,6,0.70,-21.79,-73.32,"Negative Impact",109077.09
+936,"Standard Class","Home Office","United States",Philadelphia,Pennsylvania,19120,East,"Office Supplies",Paper,15.55,3,0.20,5.44,34.98,"Positive Impact",109077.09
+937,"Standard Class","Home Office","United States",Philadelphia,Pennsylvania,19120,East,"Office Supplies",Appliances,447.70,2,0.20,33.58,7.50,"Positive Impact",109077.09
+938,"First Class",Corporate,"United States",Farmington,"New Mexico",87401,West,Technology,Accessories,159.99,1,0.00,54.40,34.00,"No Discount",718.72
+939,"Standard Class",Corporate,"United States",Riverside,California,92503,West,"Office Supplies",Paper,12.96,2,0.00,6.22,47.99,"No Discount",1944.24
+940,"Standard Class",Corporate,"United States",Riverside,California,92503,West,"Office Supplies",Appliances,134.48,4,0.00,34.96,26.00,"No Discount",1944.24
+941,"First Class",Corporate,"United States","San Francisco",California,94110,West,"Office Supplies",Paper,17.12,2,0.00,8.05,47.02,"No Discount",112669.09
+942,"Standard Class",Corporate,"United States",Torrance,California,90503,West,"Office Supplies",Binders,6.10,2,0.20,2.21,36.23,"Positive Impact",3132.27
+943,"Standard Class",Corporate,"United States",Torrance,California,90503,West,Furniture,Tables,1114.27,4,0.20,41.79,3.75,"Positive Impact",3132.27
+944,"Standard Class",Consumer,"United States",Seattle,Washington,98105,West,"Office Supplies",Paper,32.40,5,0.00,15.55,47.99,"No Discount",119540.74
+945,"Standard Class",Consumer,"United States",Seattle,Washington,98105,West,"Office Supplies",Storage,540.57,3,0.00,140.55,26.00,"No Discount",119540.74
+946,"Standard Class",Consumer,"United States",Seattle,Washington,98105,West,"Office Supplies",Binders,167.76,5,0.20,62.91,37.50,"Positive Impact",119540.74
+947,"First Class",Consumer,"United States",Mesa,Arizona,85204,West,Furniture,Tables,393.17,3,0.50,-204.45,-52.00,"Negative Impact",4037.73
+948,"Standard Class","Home Office","United States",Philadelphia,Pennsylvania,19120,East,Furniture,Furnishings,516.49,7,0.20,-12.91,-2.50,"Negative Impact",109077.09
+949,"Standard Class","Home Office","United States",Philadelphia,Pennsylvania,19120,East,Furniture,Furnishings,1007.23,6,0.20,75.54,7.50,"Positive Impact",109077.09
+950,"Standard Class","Home Office","United States",Philadelphia,Pennsylvania,19120,East,Furniture,Tables,2065.32,12,0.40,-619.60,-30.00,"Negative Impact",109077.09
+951,"Standard Class","Home Office","United States",Philadelphia,Pennsylvania,19120,East,"Office Supplies",Paper,15.55,3,0.20,5.44,34.98,"Positive Impact",109077.09
+952,"Standard Class","Home Office","United States",Philadelphia,Pennsylvania,19120,East,"Office Supplies",Paper,25.34,6,0.20,7.92,31.25,"Positive Impact",109077.09
+953,"Standard Class",Consumer,"United States",Philadelphia,Pennsylvania,19143,East,Furniture,Furnishings,25.47,4,0.20,7.64,30.00,"Positive Impact",109077.09
+954,"Standard Class",Consumer,"United States","Round Rock",Texas,78664,Central,"Office Supplies",Art,27.17,2,0.20,2.72,10.01,"Positive Impact",4854.05
+955,"Standard Class",Consumer,"United States","Round Rock",Texas,78664,Central,Furniture,Bookcases,78.85,2,0.32,-11.60,-14.71,"Negative Impact",4854.05
+956,"Standard Class",Consumer,"United States",Jackson,Mississippi,39212,South,"Office Supplies",Storage,173.80,5,0.00,43.45,25.00,"No Discount",24963.85
+957,"Second Class",Consumer,"United States",Phoenix,Arizona,85023,West,Technology,Phones,29.59,1,0.20,2.59,8.75,"Positive Impact",11000.27
+958,"Second Class",Consumer,"United States",Phoenix,Arizona,85023,West,"Office Supplies",Binders,4.75,2,0.70,-3.17,-66.74,"Negative Impact",11000.27
+959,"Second Class",Consumer,"United States",Phoenix,Arizona,85023,West,"Office Supplies",Paper,15.55,3,0.20,5.64,36.27,"Positive Impact",11000.27
+960,"Same Day",Consumer,"United States",Oceanside,California,92054,West,Furniture,Furnishings,204.60,2,0.00,53.20,26.00,"No Discount",4350.74
+961,"Standard Class",Corporate,"United States","San Francisco",California,94110,West,Furniture,Chairs,321.57,2,0.20,28.14,8.75,"Positive Impact",112669.09
+962,"Standard Class","Home Office","United States",Fayetteville,Arkansas,72701,South,"Office Supplies",Binders,6.24,2,0.00,3.06,49.04,"No Discount",6925.92
+963,"First Class",Corporate,"United States","San Francisco",California,94110,West,"Office Supplies",Envelopes,21.88,2,0.00,10.94,50.00,"No Discount",112669.09
+964,"Second Class",Consumer,"United States","Boca Raton",Florida,33433,South,"Office Supplies",Labels,4.61,2,0.20,1.67,36.23,"Positive Impact",63.01
+965,"First Class","Home Office","United States","New York City","New York",10011,East,"Office Supplies",Labels,9.82,2,0.00,4.81,48.98,"No Discount",256368.12
+966,"First Class","Home Office","United States","New York City","New York",10011,East,"Office Supplies",Art,35.97,3,0.00,9.71,26.99,"No Discount",256368.12
+967,"First Class","Home Office","United States","New York City","New York",10011,East,"Office Supplies",Paper,12.96,2,0.00,6.22,47.99,"No Discount",256368.12
+968,"First Class","Home Office","United States","New York City","New York",10011,East,"Office Supplies",Paper,191.60,4,0.00,91.97,48.00,"No Discount",256368.12
+969,"First Class","Home Office","United States","New York City","New York",10011,East,"Office Supplies",Labels,8.64,3,0.00,4.23,48.96,"No Discount",256368.12
+970,"First Class","Home Office","United States","New York City","New York",10011,East,"Office Supplies",Storage,501.81,3,0.00,0.00,0.00,"No Discount",256368.12
+971,"Second Class",Consumer,"United States",Philadelphia,Pennsylvania,19134,East,Furniture,Furnishings,127.10,6,0.20,28.60,22.50,"Positive Impact",109077.09
+972,"Second Class",Consumer,"United States",Philadelphia,Pennsylvania,19134,East,Technology,Phones,124.20,3,0.40,-31.05,-25.00,"Negative Impact",109077.09
+973,"Second Class",Consumer,"United States",Philadelphia,Pennsylvania,19134,East,"Office Supplies",Binders,18.59,2,0.70,-13.63,-73.32,"Negative Impact",109077.09
+974,"Second Class",Consumer,"United States",Philadelphia,Pennsylvania,19134,East,"Office Supplies",Labels,30.07,3,0.20,10.15,33.75,"Positive Impact",109077.09
+975,"Second Class","Home Office","United States","New York City","New York",10011,East,Technology,Phones,160.93,7,0.00,3.22,2.00,"No Discount",256368.12
+976,"Second Class","Home Office","United States","New York City","New York",10011,East,"Office Supplies",Binders,75.79,3,0.20,25.58,33.75,"Positive Impact",256368.12
+977,"Standard Class",Consumer,"United States",Portland,Oregon,97206,West,"Office Supplies",Binders,1.08,2,0.70,-0.79,-73.15,"Negative Impact",4051.86
+978,"First Class",Corporate,"United States",Detroit,Michigan,48205,Central,Technology,Machines,3059.98,2,0.10,680.00,22.22,"Positive Impact",42446.94
+979,"First Class",Consumer,"United States",Wilmington,"North Carolina",28403,South,"Office Supplies",Binders,3.28,2,0.70,-2.63,-80.18,"Negative Impact",7297.07
+980,"First Class",Corporate,"United States",Columbus,Indiana,47201,Central,"Office Supplies",Paper,34.02,3,0.00,16.67,49.00,"No Discount",38706.23
+981,"Standard Class",Consumer,"United States","New York City","New York",10035,East,Furniture,Chairs,599.29,6,0.10,93.22,15.56,"Positive Impact",256368.12
+982,"Second Class",Consumer,"United States",Louisville,Colorado,80027,West,"Office Supplies",Art,3.39,1,0.20,0.81,23.89,"Positive Impact",12345.80
+983,"Second Class",Consumer,"United States",Louisville,Colorado,80027,West,Technology,Phones,559.98,2,0.20,56.00,10.00,"Positive Impact",12345.80
+984,"Second Class",Consumer,"United States",Louisville,Colorado,80027,West,Furniture,Chairs,603.92,5,0.20,75.49,12.50,"Positive Impact",12345.80
+985,"Standard Class","Home Office","United States",Pasadena,Texas,77506,Central,"Office Supplies",Labels,7.97,2,0.20,2.59,32.50,"Positive Impact",6590.16
+986,"Standard Class","Home Office","United States",Pasadena,Texas,77506,Central,"Office Supplies",Envelopes,27.97,4,0.20,9.44,33.75,"Positive Impact",6590.16
+987,"Standard Class","Home Office","United States",Pasadena,Texas,77506,Central,Technology,Machines,336.51,3,0.40,44.87,13.33,"Positive Impact",6590.16
+988,"Same Day",Consumer,"United States",Houston,Texas,77041,Central,"Office Supplies",Binders,1.11,2,0.80,-1.89,-170.27,"Negative Impact",64504.71
+989,"Standard Class",Corporate,"United States",Auburn,"New York",13021,East,Furniture,Furnishings,520.05,5,0.00,72.81,14.00,"No Discount",3155.17
+990,"Standard Class",Corporate,"United States",Auburn,"New York",13021,East,"Office Supplies",Art,17.97,3,0.00,5.21,28.99,"No Discount",3155.17
+991,"Second Class","Home Office","United States",Jacksonville,Florida,32216,South,Furniture,Chairs,1166.92,5,0.20,131.28,11.25,"Positive Impact",44713.18
+992,"First Class",Consumer,"United States","New York City","New York",10024,East,"Office Supplies",Binders,14.62,2,0.20,5.48,37.48,"Positive Impact",256368.12
+993,"First Class",Consumer,"United States","San Jose",California,95123,West,"Office Supplies",Fasteners,10.23,3,0.00,4.91,48.00,"No Discount",6071.22
+994,"First Class",Consumer,"United States","San Jose",California,95123,West,"Office Supplies",Paper,154.90,5,0.00,69.71,45.00,"No Discount",6071.22
+995,"Standard Class",Corporate,"United States","Virginia Beach",Virginia,23464,South,"Office Supplies",Binders,2715.93,7,0.00,1276.49,47.00,"No Discount",5752.13
+996,"Standard Class",Corporate,"United States","Virginia Beach",Virginia,23464,South,Technology,Phones,617.97,3,0.00,173.03,28.00,"No Discount",5752.13
+997,"Standard Class",Consumer,"United States",Henderson,Kentucky,42420,South,"Office Supplies",Envelopes,10.67,1,0.00,4.91,46.02,"No Discount",17549.07
+998,"Standard Class",Consumer,"United States",Henderson,Kentucky,42420,South,"Office Supplies",Storage,36.63,3,0.00,9.89,27.00,"No Discount",17549.07
+999,"Standard Class",Consumer,"United States",Henderson,Kentucky,42420,South,Furniture,Furnishings,24.10,5,0.00,9.16,38.01,"No Discount",17549.07
+1000,"Standard Class",Consumer,"United States",Henderson,Kentucky,42420,South,Furniture,Furnishings,33.11,7,0.00,12.91,38.99,"No Discount",17549.07
