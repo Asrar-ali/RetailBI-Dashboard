@@ -1,3 +1,2 @@
 # RetailBI-Dashboard
-power bi
-readme
+power bI
